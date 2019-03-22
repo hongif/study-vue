@@ -1,0 +1,889 @@
+
+/* main_banner__module */
+.renew__main_banner {
+    position: relative;
+}
+.renew__main_banner *{
+    position: relative;
+    user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+.renew__main_banner__slider {
+    overflow: hidden;
+    background: #fff;
+    height: 380px; /* for overflow */
+}
+.renew__main_banner__slide {
+    cursor: pointer;
+}
+.renew__main_banner__slide .width_inner {
+    margin:0 auto;
+    width:1100px;
+    height: 380px; /* for ratio */
+}
+.renew__main_banner__pic_box {
+}
+.renew__main_banner__pic_box img {
+    max-width:initial;
+}
+.renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+.renew__main_banner__go_btn {
+    display: inline-block;
+    font-size:15px;
+    font-weight:500;
+    width: 129px;
+    height: 38px;
+    line-height: 38px;
+    letter-spacing: -0.9px;
+    color:#ffffff;
+    border-radius:4px;
+    padding:0 0 0 16px;
+}
+.renew__main_banner__go_btn .renew__icon{
+    position:absolute;
+    right:15px;
+    top:15px;
+}
+a.renew__main_banner__go_btn,
+a.renew__main_banner__go_btn:hover,
+a.renew__main_banner__go_btn:focus,
+a.renew__main_banner__go_btn:active{
+    text-decoration:none;
+    color:#ffffff;
+}
+.renew__main_banner__prev {
+    position:absolute;
+    left:50px;
+    top:50%;
+    margin-top:-30px;
+    z-index: 100;
+    cursor: pointer;
+}
+.renew__main_banner__next {
+    position:absolute;
+    right:50px;
+    top:50%;
+    margin-top:-30px;
+    z-index: 100;
+    cursor: pointer;
+}
+.renew__main_banner .bx-pager {
+    position:absolute;
+    bottom:30px;
+    left:0;
+    width:100%;
+    z-index:100;
+    font-size:0;
+}
+.renew__main_banner .bx-pager-item {
+    display:inline-block;
+    vertical-align:middle;
+    width:7px;
+    height:7px;
+    margin:0 6px;
+}
+.renew__main_banner .bx-pager-item a {
+    display:inline-block;
+    width:7px;
+    height:7px;
+    border-radius:50%;
+    background:#fff !important;
+    opacity:0.3;
+}
+.renew__main_banner .bx-pager-item a.active {
+    opacity:1
+}
+/* main_banner__module end */
+
+/* event_20180517 */
+.event_20180517 {
+    background:url("//image.theminda.com/file/event/20180517/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20180517 .renew__main_banner__pic_box {
+
+}
+.event_20180517 {
+    color:#004475;
+}
+.event_20180517 .renew__main_banner__go_btn{
+    background:#004475;
+}
+/* event_20180517 end*/
+
+/* event_20180518 */
+.event_20180518 {
+    background:#d5ecff;
+}
+.event_20180518 .renew__main_banner__pic_box {
+    padding:66px 0 0 592px;
+}
+.event_20180518 {
+    color:#000000;
+}
+.event_20180518 .renew__main_banner__go_btn{
+    background:#000000;
+}
+/* event_20180518 end*/
+
+/* event_20180519 */
+.event_20180519 {
+    background:url("//image.theminda.com/file/event/20180519/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20180519 .renew__main_banner__pic_box {
+
+}
+.event_20180519 {
+    color:#000000;
+}
+.event_20180519 .renew__main_banner__go_btn{
+    background:#000000;
+}
+/* event_20180519 end*/
+
+/* event_20180521 */
+.event_20180521 {
+    background:#a8e7ed  ;
+}
+.event_20180521 .renew__main_banner__pic_box {
+    padding:26px 0 0 80px;
+}
+.event_20180521 {
+    color:#006d77;
+}
+.event_20180521 .renew__main_banner__go_btn{
+    background:#006d77;
+}
+/* event_20180521 end*/
+
+/* event_20180522 */
+.event_20180522 {
+    background:#99e7b3  ;
+}
+.event_20180522 .renew__main_banner__pic_box {
+    padding:70px 0 0 587px;
+}
+.event_20180522 {
+    color:#0a5121;
+}
+.event_20180522 .renew__main_banner__go_btn{
+    background:#0a5121;
+}
+/* event_20180522 end*/
+
+/* event_20180523 */
+.event_20180523 {
+    background:#ffd193;
+}
+.event_20180523 .renew__main_banner__pic_box {
+    padding:0 0 0 153px;
+}
+.event_20180523 {
+    color:#000;
+}
+.event_20180523 .renew__main_banner__go_btn{
+    background:#000;
+}
+/* event_20180523 end*/
+
+/* event_20180529 */
+.event_20180529 {
+    background:#ffd67d;
+}
+.event_20180529 .renew__main_banner__pic_box {
+    padding:0 0 0 605px;
+}
+.event_20180529 {
+    color:#000;
+}
+.event_20180529 .renew__main_banner__go_btn{
+    background:#000;
+}
+/* event_20180529 end*/
+
+/* event_20180601 */
+.event_20180601 {
+    background:#ffe573;
+}
+.event_20180601 .renew__main_banner__pic_box {
+    padding:40px 0 0 614px;
+}
+.event_20180601 {
+    color:#000;
+}
+.event_20180601 .renew__main_banner__go_btn{
+    background:#000;
+}
+/* event_20180601 end*/
+
+/* event_20180618 */
+.event_20180618 {
+    background:#c1deff;
+}
+.event_20180618 .renew__main_banner__pic_box {
+    padding:109px 0 0 559px;
+}
+.event_20180618 {
+    color:#000;
+}
+.event_20180618 .renew__main_banner__go_btn{
+    background:#000;
+}
+/* event_20180618 end*/
+
+/* event_20180622 */
+.event_20180622 {
+    background: linear-gradient(to bottom, #a992d1, #eaaeb8);
+}
+@media screen and (min-width:0\0){ /*ie9*/
+    .event_20180622 {
+        background: #c18391;
+    }
+}
+.event_20180622 .renew__main_banner__pic_box {
+    padding:40px 0 0 556px;
+}
+.event_20180622 {
+    color:#fff;
+}
+.event_20180622 .renew__main_banner__go_btn{
+    background:#fff;
+    color:#c18391;
+}
+.event_20180622 .renew__main_banner__go_btn,
+.event_20180622 .renew__main_banner__go_btn:hover,
+.event_20180622 .renew__main_banner__go_btn:focus,
+.event_20180622 .renew__main_banner__go_btn:active{
+    text-decoration:none;
+    color:#c18391;
+}
+/* event_20180601 end*/
+
+/* event_20180627 */
+.event_20180627 {
+    background: #aeedeb;
+}
+.event_20180627 .renew__main_banner__pic_box {
+    padding:63px 0 0 512px;
+}
+.event_20180627 {
+    color:#462f1e;
+}
+.event_20180627 .renew__main_banner__go_btn{
+    background:#462f1e;
+}
+/* event_20180627 end*/
+
+/* event_20180709 */
+.event_20180709 {
+    background: #bde6ff;
+}
+.event_20180709 .renew__main_banner__pic_box {
+    padding:84px 0 0 591px;
+}
+.event_20180709 {
+    color:#4c2810;
+}
+.event_20180709 .renew__main_banner__go_btn{
+    background:#4c2810;
+}
+/* event_20180709 end*/
+
+/* event_20180713 */
+.event_20180713 {
+    background: url("//image.theminda.com/file/event/20180713/pc_main_banner_bg.png") repeat-x;
+}
+.event_20180713 .renew__main_banner__pic_box {
+    padding:56px 0 0 534px;
+}
+.event_20180713 {
+    color:#fff;
+}
+.event_20180713 .renew__main_banner__go_btn{
+    background:#fff;
+    color: #30abb7;
+}
+/* event_20180713 end*/
+
+/* event_20180724 */
+.event_20180724 {
+    background:#ffddb8  ;
+}
+.event_20180724 .renew__main_banner__pic_box {
+    padding:56px 0 0 570px;
+}
+.event_20180724 {
+    color:#733718;
+}
+.event_20180724 .renew__main_banner__go_btn{
+    background:#733718;
+}
+/* event_20180724 end*/
+
+/* event_20180806 */
+.event_20180806 {
+    background:url("//image.theminda.com/file/event/20180806/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20180806 .renew__main_banner__pic_box {
+
+}
+.event_20180806 {
+    color:#FFFFFF;
+}
+.event_20180806 .renew__main_banner__go_btn{
+    background:#FFFFFF;
+    color:#000000;
+    cursor: pointer;
+}
+.event_20180806 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20180806 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20180806 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20180806 end*/
+
+/* event_20180817 */
+.event_20180817 {
+    background-color: #1a2539;
+
+    background-size: cover;
+}
+.event_20180817 .renew__main_banner__pic_box {
+    padding:0px 0 0 520px;
+}
+.event_20180817 {
+    color:#b4c7eb;
+}
+.event_20180817 .renew__main_banner__go_btn{
+    background:#b4c7eb;
+    color:#1a2539;
+    cursor: pointer;
+}
+.event_20180817 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20180817 .renew__main_banner__txt_box .orange_high_light {
+    color: #f58850;
+}
+.event_20180817 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20180817 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+.event_20180817 .pc_main_pattern{
+    position:absolute;
+    left:0;
+    width: 100%;
+    bottom:0;
+    height:107px;
+    background:url("https://image.theminda.com/file/event/20180817/pc_main_pattern.png") repeat-x;
+    background-size: auto 100%;
+}
+/* event_20180817 end*/
+
+/* event_20180831 */
+.event_20180831 {
+    background:url("//image.theminda.com/file/event/20180831/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20180831 .renew__main_banner__pic_box {
+}
+.event_20180831 {
+    color:#FFFFFF;
+}
+.event_20180831 .renew__main_banner__go_btn{
+    background:#FFFFFF;
+    color:#000000;
+    cursor: pointer;
+}
+.event_20180831 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20180831 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20180831 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20180831 end*/
+
+/* event_20180911 */
+.event_20180911 {
+    background:url("//image.theminda.com/file/event/20180911/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20180911 .renew__main_banner__pic_box {
+}
+.event_20180911 {
+    color:#FFFFFF;
+}
+.event_20180911 .renew__main_banner__go_btn{
+    background: #f1f2f4;
+    color:#000000;
+    cursor: pointer;
+}
+.event_20180911 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20180911 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20180911 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20180911 end*/
+
+/* event_20180920 */
+.event_20180920 {
+    background-color: #eeecda;
+    background-size: cover;
+}
+.event_20180920 .renew__main_banner__pic_box {
+    padding:47px 0 0 607px;
+}
+.event_20180920 {
+    color:#e60012;
+}
+.event_20180920 .renew__main_banner__go_btn{
+    background:#e60012;
+    color:#ffffff;
+    cursor: pointer;
+}
+.event_20180920 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20180920 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20180920 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20180920 end*/
+
+/* event_20180928 */
+.event_20180928 {
+    background:#94c74f;
+    background-size: cover;
+}
+.event_20180928 .renew__main_banner__pic_box {
+    padding:97px 0 0 574px;
+}
+.event_20180928 {
+    color:#ffffff;
+}
+.event_20180928 .renew__main_banner__go_btn{
+    background:#ffffff;
+    color:#000000;
+    cursor: pointer;
+}
+.event_20180928 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20180928 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20180928 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20180928 end*/
+
+/* event_20181106 */
+.event_20181106 {
+    background-color: #F5EDD2;
+    background-size: cover;
+}
+.event_20181106 .renew__main_banner__pic_box {
+    padding:80px 0 0 470px;
+}
+.event_20181106 {
+    color:#222222;
+}
+.event_20181106 .renew__main_banner__go_btn{
+    background:#222222;
+    color:#ffffff;
+    cursor: pointer;
+}
+.event_20181106 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20181106 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20181106 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20181106 end*/
+
+/* event_20181113 */
+.event_20181113 {
+    background:url("//image.theminda.com/file/event/20181113/pc_main_banner_bg.jpg") no-repeat center center;
+    background-size: cover;
+}
+.event_20181113 .renew__main_banner__pic_box {
+}
+.event_20181113 {
+    color:#FFFFFF;
+}
+.event_20181113 .renew__main_banner__go_btn{
+    background: #ffffff;
+    color:#000000;
+    cursor: pointer;
+}
+.event_20181113 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20181113 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20181113 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20181113 end*/
+/* event_20181119 */
+.event_20181119 {
+    background-color: #e9f5f8;
+    background-size: cover;
+}
+.event_20181119 .renew__main_banner__pic_box {
+    padding:50px 0 0 370px;
+}
+.event_20181119 {
+    color: #18919f;
+}
+.event_20181119 .renew__main_banner__go_btn{
+    background:#18919f;
+    color:#ffffff;
+    cursor: pointer;
+}
+.event_20181119 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20181119 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20181119 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20181119 end*/
+/* event_20181213 */
+.event_20181213 {
+    background-color: #fccb59;
+    background-size: cover;
+}
+.event_20181213 .renew__main_banner__pic_box .main_img{
+    padding:69px 245px 0 545px;
+}
+/*
+.event_20181213 .pc_main_bg{
+    position:absolute;
+    bottom:0;
+    height:100%;
+    background:url("https://image.theminda.com/file/event/20181213/pc_main_banner_bg.png") no-repeat;
+    background-size: auto 100%;
+    width: 1334px;
+    transform: translateX(-50%);
+    left:50%
+}*/
+.event_20181213 .renew__main_banner__go_btn{
+    background:#ffffff;
+    color:#484848;
+    cursor: pointer;
+}
+.event_20181213 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+    color:#ffffff;
+}
+.event_20181213 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+    color: #fff;
+}
+.event_20181213 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20181213 end*/
+/* event_20181220 */
+.event_20181220 {
+    background:url("//image.theminda.com/file/event/20181220/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20181220 {
+    color: #4fa0a5;
+}
+.event_20181220 .renew__main_banner__go_btn{
+    background: #4fa0a5;
+    color:#ffffff;
+    cursor: pointer;
+}
+.event_20181220 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20181220 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20181220 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20181220 end*/
+/* event_20190117 */
+.event_20190117 {
+    background:#ffb468  ;
+}
+.event_20190117 .renew__main_banner__pic_box {
+    padding:69px 0 0 622px;
+}
+.event_20190117 {
+    color:#ffffff;
+}
+.event_20190117 .renew__main_banner__go_btn{
+    background:#ffffff;
+    color: #000000;
+    cursor: pointer;
+}
+/* event_20190117 end*/
+/* event_20190124 */
+.event_20190124 {
+    background:url("//image.theminda.com/file/event/20190124/pc_main_banner.png") no-repeat center center;
+    background-size: cover;
+}
+.event_20190124 .renew__main_banner__pic_box {
+}
+.event_20190124 {
+    color:#FFFFFF;
+}
+.event_20190124 .renew__main_banner__go_btn{
+    background: #f1f2f4;
+    color:#000000;
+    cursor: pointer;
+}
+.event_20190124 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+}
+.event_20190124 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+}
+.event_20190124 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20190124 end*/
+/* event_20190129 */
+.event_20190129 {
+    background-color: #ffe8d0;
+    background-size: cover;
+}
+.event_20190129 .renew__main_banner__pic_box .main_img{
+    padding:0 51px 0 575px;
+}
+.event_20190129 .renew__main_banner__go_btn{
+    background:#f58850;
+    color:#ffffff;
+    cursor: pointer;
+}
+.event_20190129 .renew__main_banner__txt_box{
+    position: absolute;
+    top:0;
+    left:188px;
+    padding:72px 0 0;
+    text-align: left;
+    color:#f58850;
+}
+.event_20190129 .renew__main_banner__sub_tit {
+    font-size:22px;
+    font-weight: 500;
+    padding: 0 0 20px;
+    line-height: 1em;
+    letter-spacing: -2px;
+    color: #f58850;
+}
+.event_20190129 .renew__main_banner__tit {
+    font-size:45px;
+    font-weight: 900;
+    line-height: 1.16em;
+    padding: 0 0 36px;
+    letter-spacing: -2.4px;
+}
+/* event_20190129 end*/
+/* event_20190213 */
+.event_20190213 {background-color: #2a1d02; background-size: cover;}
+.event_20190213 .renew__main_banner__pic_box {padding:116px 0 0 520px;}
+.event_20190213 .renew__main_banner__go_btn{background:#fff;color:#1a2539;cursor: pointer;}
+.event_20190213 .renew__main_banner__txt_box{position: absolute;top:0;left:188px;padding:72px 0 0;text-align: left;color:#fff;}
+.event_20190213 .renew__main_banner__sub_tit {font-size:22px;font-weight: 500;padding: 0 0 20px;line-height: 1em;letter-spacing: -2px;color:#fff;}
+.event_20190213 .renew__main_banner__tit {font-size:45px;font-weight: 900;line-height: 1.16em;padding: 0 0 36px;letter-spacing: -2.4px;color:#fff;}
+.event_20190213 .renew__main_banner__tit .emphasis_color{color: #ffd201;}
+.event_20190213 .pc_main_bg{position:absolute;left:50%;bottom:0;width:1313px; height:100%;background:url("https://image.theminda.com/file/event/20190213_compound_payment/pc_main_banner_bg.png") no-repeat;background-size: auto 100%;transform: translate(-50%,0);-webkit-transform: translate(-50%,0);-ms-transform: translate(-50%,0);-moz-transform: translate(-50%,0);}
+/* event_20190213 end*/

@@ -22,8 +22,8 @@ export default {
 
 <style>
   /*@import './assets/css/animate.css';*/
-  /*!*@import './assets/css/common.css';*!*/
-  /*!*@import './assets/css/common.dev.css';*!*/
+  @import './assets/css/common.css';
+  @import './assets/css/common.dev.css';
   /*@import './assets/css/default.css';*/
   /*@import './assets/css/nanoscroller.css';*/
   /*@import './assets/css/normalize.css';*/

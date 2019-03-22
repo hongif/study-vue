@@ -23,53 +23,53 @@
 .color-purple {color:#ab37fe !important;}
 
 /* icon */
-.icon_thumb{width:15px;height:17px;margin-top:-3px;background-image:url(img/icon_thumb.png)}
-.icon_location{width:15px;height:19px;margin-top:-3px;background-image:url(img/icon_location.png)}
-.icon_walking{width:18px;height:21px;margin-top:-3px;background-image:url(img/icon_walking.png)}
-.icon_car_sm{width:19px;height:16px;background-image:url(img/icon_car_sm.png)}
-.icon_cycle{width:25px;height:16px;margin-top:-2px;background-image:url(img/icon_cycle.png)}
-.icon_train{width:17px;height:20px;background-image:url(img/icon_train.png)}
-.icon_heart{width:25px;height:20px;background-image:url(img/heart.png);background-size:cover;box-shadow:none !important}
-.icon_heart:hover, .icon_heart.active{background-image:url(img/heart_mint.png)}
+.icon_thumb{width:15px;height:17px;margin-top:-3px;background-image:url(https://www.theminda.com/cust/css/img/icon_thumb.png)}
+.icon_location{width:15px;height:19px;margin-top:-3px;background-image:url(https://www.theminda.com/cust/css/img/icon_location.png)}
+.icon_walking{width:18px;height:21px;margin-top:-3px;background-image:url(https://www.theminda.com/cust/css/img/icon_walking.png)}
+.icon_car_sm{width:19px;height:16px;background-image:url(https://www.theminda.com/cust/css/img/icon_car_sm.png)}
+.icon_cycle{width:25px;height:16px;margin-top:-2px;background-image:url(https://www.theminda.com/cust/css/img/icon_cycle.png)}
+.icon_train{width:17px;height:20px;background-image:url(https://www.theminda.com/cust/css/img/icon_train.png)}
+.icon_heart{width:25px;height:20px;background-image:url(https://www.theminda.com/cust/css/img/heart.png);background-size:cover;box-shadow:none !important}
+.icon_heart:hover, .icon_heart.active{background-image:url(https://www.theminda.com/cust/css/img/heart_mint.png)}
 .icon_heart.sm{width:17px; height:14px}
-.icon_map_sm{width:18px;height:15px;background:url(img/icon_map_sm.png)}
-.icon_like_mint{width:18px;height:16px;margin:-2px 3px 0 0;background-image:url(img/icon_like_mint.png)}
+.icon_map_sm{width:18px;height:15px;background:url(https://www.theminda.com/cust/css/img/icon_map_sm.png)}
+.icon_like_mint{width:18px;height:16px;margin:-2px 3px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_like_mint.png)}
 .icon_like_mint.sm{width:16px;height:14px;margin-right:0;background-size:16px}
-.icon_cal{width:12px;height:12px;margin:-3px 5px 0 0;background-image:url(img/icon_cal.png)}
-.icon_ticket_wh{width:16px;height:16px;margin:-2px 3px 0 0;background-image:url(img/icon_ticket.png)}
-.icon_link{width:15px;height:16px;margin:-2px 5px 0 0;background-image:url(img/icon_link_grey.png)}
-.icon_link_mint{width:20px;height:20px;margin:-2px 5px 0 0;background-image:url(img/icon_link_mint.png)}
-.open .icon_link, button:hover .icon_link{background-image:url(img/icon_link_org.png)}
-.icon_map_org{width:22px;height:19px;margin:-5px 5px 0 0;background-image:url(img/icon_map_org.png)}
+.icon_cal{width:12px;height:12px;margin:-3px 5px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_cal.png)}
+.icon_ticket_wh{width:16px;height:16px;margin:-2px 3px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_ticket.png)}
+.icon_link{width:15px;height:16px;margin:-2px 5px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_link_grey.png)}
+.icon_link_mint{width:20px;height:20px;margin:-2px 5px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_link_mint.png)}
+.open .icon_link, button:hover .icon_link{background-image:url(https://www.theminda.com/cust/css/img/icon_link_org.png)}
+.icon_map_org{width:22px;height:19px;margin:-5px 5px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_map_org.png)}
 .icon_spot, .icon_flag, .icon_ticket{width:20px;background-position:0 50%}
-.icon_spot{height:16px;margin-top:-4px;background-image:url(img/icon_spot.png)}
-.icon_flag{height:15px;margin-top:-5px;background-image:url(img/icon_flag.png)}
-.icon_ticket{height:17px;margin-top:-3px;background-image:url(img/icon_ticket_blk.png)}
-.icon_srch_blk{width:14px;height:14px;margin:-3px 3px 0 0;background-image:url(img/icon_srch_blk_sm.png)}
-.icon_car_wh{width:17px;height:18px;margin:-3px 8px 0 0;background-image:url(img/icon_car_wh.png)}
+.icon_spot{height:16px;margin-top:-4px;background-image:url(https://www.theminda.com/cust/css/img/icon_spot.png)}
+.icon_flag{height:15px;margin-top:-5px;background-image:url(https://www.theminda.com/cust/css/img/icon_flag.png)}
+.icon_ticket{height:17px;margin-top:-3px;background-image:url(https://www.theminda.com/cust/css/img/icon_ticket_blk.png)}
+.icon_srch_blk{width:14px;height:14px;margin:-3px 3px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_srch_blk_sm.png)}
+.icon_car_wh{width:17px;height:18px;margin:-3px 8px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_car_wh.png)}
 .icon_new, .icon_up{position:absolute;top:10px;left:50%;width:21px;height:15px;margin-left:-10px}
-.icon_up{background-image:url(img/icon_up.png)}
-.icon_new{background-image:url(img/icon_new.png)}
-.icon_q_ylw{width:15px;height:15px;margin:-2px 0 0 3px;background-image:url(img/icon_q_ylw.png)}
-.icon_rentcar{background-image:url(img/icon_rentcar_blk.png);width:36px;height:28px}
-.my_status_lst li a:hover .icon_rentcar, .my_status_lst li a:focus .icon_rentcar{background-image:url(img/icon_rentcar_wh2.png)}
-.icon_comm {width:27px;height:23px;background:url(img/ico_comm_gnb.png) center center no-repeat;}
-.icon_discount {width:29px;height:23px;background:url(img/ico_discount_gnb.png) center center no-repeat;}
-.icon_srch_gnb {width:24px;height:23px;background:url(img/ico_srch_gnb.png) center center no-repeat;}
-.icon_date_close {width:14px;height:14px;background:url(img/date_close.png) center center no-repeat;}
+.icon_up{background-image:url(https://www.theminda.com/cust/css/img/icon_up.png)}
+.icon_new{background-image:url(https://www.theminda.com/cust/css/img/icon_new.png)}
+.icon_q_ylw{width:15px;height:15px;margin:-2px 0 0 3px;background-image:url(https://www.theminda.com/cust/css/img/icon_q_ylw.png)}
+.icon_rentcar{background-image:url(https://www.theminda.com/cust/css/img/icon_rentcar_blk.png);width:36px;height:28px}
+.my_status_lst li a:hover .icon_rentcar, .my_status_lst li a:focus .icon_rentcar{background-image:url(https://www.theminda.com/cust/css/img/icon_rentcar_wh2.png)}
+.icon_comm {width:27px;height:23px;background:url(https://www.theminda.com/cust/css/img/ico_comm_gnb.png) center center no-repeat;}
+.icon_discount {width:29px;height:23px;background:url(https://www.theminda.com/cust/css/img/ico_discount_gnb.png) center center no-repeat;}
+.icon_srch_gnb {width:24px;height:23px;background:url(https://www.theminda.com/cust/css/img/ico_srch_gnb.png) center center no-repeat;}
+.icon_date_close {width:14px;height:14px;background:url(https://www.theminda.com/cust/css/img/date_close.png) center center no-repeat;}
 .input-group .btn{ padding:7px}
 .chk_label.circle_org{ font-size:14px}
-.chk_label.circle_org:before{ width:20px; height:20px; margin-right:2px; border:0;background:url(img/chk_circle.png)}
+.chk_label.circle_org:before{ width:20px; height:20px; margin-right:2px; border:0;background:url(https://www.theminda.com/cust/css/img/chk_circle.png)}
 .circle_label.sm{ width:46px; height:46px}
-.circle_org.on:before{background-image:url(img/chk_circle_org.png)}
+.circle_org.on:before{background-image:url(https://www.theminda.com/cust/css/img/chk_circle_org.png)}
 .bx-wrapper .bx-controls-direction a.disabled{display:block}
-.icon_more_mint {width:12px;height:12px;background:url(img/icon_more_mint.png) 0 0 no-repeat;}
+.icon_more_mint {width:12px;height:12px;background:url(https://www.theminda.com/cust/css/img/icon_more_mint.png) 0 0 no-repeat;}
 .open .icon_more_mint {background-position:0 -12px}
-.icon_help_grey {width:24px;height:24px;border-radius:50%;background:url(img/icon_help_grey.png) center center no-repeat;}
-.icon_new_item {width:19px;height:19px;background:url(img/icon_new_item.png) center center no-repeat;vertical-align:top;margin-top:3px;}
-.icon_discount_item {width:19px;height:19px;background:url(img/icon_discount_item.png) center center no-repeat;vertical-align:top;margin-top:3px;}
-.icon_arr_blk {width:9px;height:14px;background:url(img/icon_arr_blk.png) no-repeat;vertical-align:top;}
-.icon-lst {background-image:url(img/spr_icon_list.png);background-repeat:no-repeat;}
+.icon_help_grey {width:24px;height:24px;border-radius:50%;background:url(https://www.theminda.com/cust/css/img/icon_help_grey.png) center center no-repeat;}
+.icon_new_item {width:19px;height:19px;background:url(https://www.theminda.com/cust/css/img/icon_new_item.png) center center no-repeat;vertical-align:top;margin-top:3px;}
+.icon_discount_item {width:19px;height:19px;background:url(https://www.theminda.com/cust/css/img/icon_discount_item.png) center center no-repeat;vertical-align:top;margin-top:3px;}
+.icon_arr_blk {width:9px;height:14px;background:url(https://www.theminda.com/cust/css/img/icon_arr_blk.png) no-repeat;vertical-align:top;}
+.icon-lst {background-image:url(https://www.theminda.com/cust/css/img/spr_icon_list.png);background-repeat:no-repeat;}
 .icon_map_blk {width:25px;height:21px;background-position:0 0;margin:-3px 2px 0 0;}
 .icon_srch_wh {width:16px;height:16px;background-position:0 -50px;}
 /*---------------------*/
@@ -80,15 +80,15 @@
 .index #container{padding-top:0}
 .split:not(i):before{content:"";display:inline-block;width:1px;height:.9em;margin:-2px .5em 0 .4em;background:#e0e0e0;vertical-align:middle}
 .room_result .room_detail_check dl.split:before,.media .media-body dl.split:before{display:none;}
-.starrating.ver_org{width:87px;background-image:url(img/star_off.png)}
-.starrating.ver_org *{background-image:url(img/star_on.png)}
+.starrating.ver_org{width:87px;background-image:url(https://www.theminda.com/cust/css/img/star_off.png)}
+.starrating.ver_org *{background-image:url(https://www.theminda.com/cust/css/img/star_on.png)}
 
 
 /* Gnb */
 #hd, .index #hd{position:relative;height:auto;background:#fff;min-width:1220px;margin:0 auto;width:100%;}
 #hd>.header{width:100%;min-width:1220px;padding:0 60px;height:114px; position:relative;}
 #hd .logo{float:left;position:relative;z-index:2;margin:51px 90px 0 0;}
-#hd .icon_new {width:35px;height:12px;background:url(img/icon_beta.png);margin-left:-18px;}
+#hd .icon_new {width:35px;height:12px;background:url(https://www.theminda.com/cust/css/img/icon_beta.png);margin-left:-18px;}
 #hd .icon_up {}
 .util {float: none; padding: 5px 0 8px; text-align: right;font-size: 14px;display: block;vertical-align: top;min-height: 48px;}
 .util .header_user_menu{display: inline-block;vertical-align: middle;line-height: 30px; /*padding: 0 10px;*/font-size: 13px;font-weight: 300;color: #484848;cursor: pointer;}
@@ -218,27 +218,27 @@
 .srch_wrp .icon_srch_grey {margin:0}
 /* badge & label */
 .tmbwrp .badge, .tmbwrp .badge:empty{position:absolute;right:-8px;bottom:0px;width:36px;height:38px;border-radius:50%;font-size:0;line-height:0;text-indent:-999em;display:block;}
-.tmbwrp .badge_star{background:#f58850 url(img/badge_star.png) no-repeat 50% 50%;width:26px;height:26px;}
-.tmbwrp .badge_gold {background:url(img/ico_badge_gold.png) no-repeat 50% 50%;background-size:36px auto;}
-.tmbwrp .badge_silver {background:url(img/ico_badge_silver.png) no-repeat 50% 50%;background-size:36px auto;}
-.tmbwrp .badge_bronze{background:url(img/ico_badge_bronze.png) no-repeat 50% 50%;background-size:36px auto;}
-.tmbwrp .badge_tree {background:url(img/ico_badge_tree.png) no-repeat 50% 50%;background-size:36px auto;}
-.tmbwrp .badge_stone {background:url(img/ico_badge_stone.png) no-repeat 50% 50%;background-size:36px auto;}
+.tmbwrp .badge_star{background:#f58850 url(https://www.theminda.com/cust/css/img/badge_star.png) no-repeat 50% 50%;width:26px;height:26px;}
+.tmbwrp .badge_gold {background:url(https://www.theminda.com/cust/css/img/ico_badge_gold.png) no-repeat 50% 50%;background-size:36px auto;}
+.tmbwrp .badge_silver {background:url(https://www.theminda.com/cust/css/img/ico_badge_silver.png) no-repeat 50% 50%;background-size:36px auto;}
+.tmbwrp .badge_bronze{background:url(https://www.theminda.com/cust/css/img/ico_badge_bronze.png) no-repeat 50% 50%;background-size:36px auto;}
+.tmbwrp .badge_tree {background:url(https://www.theminda.com/cust/css/img/ico_badge_tree.png) no-repeat 50% 50%;background-size:36px auto;}
+.tmbwrp .badge_stone {background:url(https://www.theminda.com/cust/css/img/ico_badge_stone.png) no-repeat 50% 50%;background-size:36px auto;}
 .tmbwrp .badge_none {display:none;}
 
 .label_lst{font-size:0}
 .label_lst [class*=label]{display:inline-block;padding:5px 10px;margin-left:4px;border-radius:15px;font-size:13px;color:#fff}
 .label_lst [class*=label]:before{content:"";display:inline-block;width:12px;height:15px;margin:1px 3px 0 0;background-repeat:no-repeat;background-position:50% 50%;vertical-align:top}
 .label_room{background:#bc63fc}
-.label_lst .label_room:before{width:12px;background-image:url(img/icon_home_xs.png)}
+.label_lst .label_room:before{width:12px;background-image:url(https://www.theminda.com/cust/css/img/icon_home_xs.png)}
 .label_spot{background:#f5a212}
-.label_lst .label_spot:before{width:9px;background-image:url(img/icon_map_xs.png)}
+.label_lst .label_spot:before{width:9px;background-image:url(https://www.theminda.com/cust/css/img/icon_map_xs.png)}
 .label_cal{background:#f58850}
-.label_lst .label_cal:before{background-image:url(img/icon_cal.png)}
+.label_lst .label_cal:before{background-image:url(https://www.theminda.com/cust/css/img/icon_cal.png)}
 .label_tour{background:#57c1be}
-.label_lst .label_tour:before{background-image:url(img/icon_tour.png)}
+.label_lst .label_tour:before{background-image:url(https://www.theminda.com/cust/css/img/icon_tour.png)}
 .label_ticket{background:#2ea4db}
-.label_lst .label_ticket:before{width:16px;background-image:url(img/icon_ticket.png)}
+.label_lst .label_ticket:before{width:16px;background-image:url(https://www.theminda.com/cust/css/img/icon_ticket.png)}
 
 
 /* 한인숙소  2016-10-06 기준 실서버반영X!!!!!!! : yuna*/
@@ -282,18 +282,18 @@
 .room_introduce .over .bx_more {text-align:left;padding:30px 0 0 0;}
 .room_introduce .over .bx_more .btn {padding-top:5px;padding-bottom:5px;font-size:14px;font-weight:500;}
 .room_introduce .over .bx_more .btn .txt {margin:0 0 0 5px;vertical-align:middle;}
-.room_introduce .active .icon_pick {background:url(img/icon_wish_minton.png) 0 0 no-repeat;}
+.room_introduce .active .icon_pick {background:url(https://www.theminda.com/cust/css/img/icon_wish_minton.png) 0 0 no-repeat;}
 .room_introduce .current-price, .room_introduce .current-price--won{display:inline-block;color:#E93D3D;vertical-align:middle;}
 .room_introduce .current-price{font-size:25px;font-weight:700;margin:-8px 0 0 0;}
 .room_introduce .current-price--won{font-size:15px;font-weight:100;margin:0 0 0 3px;}
-.room_introduce .active .icon_pick {background:url(img/icon_wish_minton.png) 0 0 no-repeat;}
+.room_introduce .active .icon_pick {background:url(https://www.theminda.com/cust/css/img/icon_wish_minton.png) 0 0 no-repeat;}
 .room_detail_info .type ul>li:before{display:none}
 .room_detail_info .type ul>li a {display:block;}
 .room_detail_info .type ul>li a:before {content:'';display:block;width:36px;height:43px;margin:0 auto}
 .room_detail_info .type .type1 {padding-left:0 !important;}
-.room_detail_info .type .type1 a:before {background:url(img/room_type1.png) 0 0 no-repeat;}
-.room_detail_info .type .type2 a:before {background:url(img/room_type2.png) 0 0 no-repeat;}
-.room_detail_info .type .type3 a:before {background:url(img/room_type3.png) 0 0 no-repeat;}
+.room_detail_info .type .type1 a:before {background:url(https://www.theminda.com/cust/css/img/room_type1.png) 0 0 no-repeat;}
+.room_detail_info .type .type2 a:before {background:url(https://www.theminda.com/cust/css/img/room_type2.png) 0 0 no-repeat;}
+.room_detail_info .type .type3 a:before {background:url(https://www.theminda.com/cust/css/img/room_type3.png) 0 0 no-repeat;}
 .room_detail_info .type .type3 {padding-right:0 !important;}
 .room_detail_info .type .tooltip .tooltip-inner {background-color:#fff;border:1px solid #ddd;color:#484848;z-index:1}
 .room_detail_info .type .tooltip-arrow {border-color: #fff transparent transparent transparent;z-index:3;bottom:1px;}
@@ -361,8 +361,8 @@ height: 0; border-style: solid; border-width: 6px 6px 0 6px; border-color: #ddd 
 .spot_lst .btm_info{font-size:12px;margin-top:7px;color:#aaa/* padding-top:15px; border-top:1px solid #ededed*/}
 .spot_lst .btm_info .name span{display:inline-block;max-width:145px;vertical-align:top;}
 .spot_lst .price{font-weight:500; font-size:24px;}
-.spot_lst .bx-controls-direction a, .guidebook .bx-controls-direction a{left:-95px;width:54px;height:54px;margin-top:-54px;background-image:url(img/slidebtn_org.jpg)}
-.spot_lst .bx-controls-direction a.bx-next, .guidebook .bx-controls-direction a.bx-next{right:-95px;background-image:url(img/slidebtn_org.jpg);background-position:100% 0}
+.spot_lst .bx-controls-direction a, .guidebook .bx-controls-direction a{left:-95px;width:54px;height:54px;margin-top:-54px;background-image:url(https://www.theminda.com/cust/css/img/slidebtn_org.jpg)}
+.spot_lst .bx-controls-direction a.bx-next, .guidebook .bx-controls-direction a.bx-next{right:-95px;background-image:url(https://www.theminda.com/cust/css/img/slidebtn_org.jpg);background-position:100% 0}
 .spot_other .bx-wrapper {max-width:1100px!important}
 .spot_other .sub_title {padding:48px 0 19px 0;font-size:20px; font-weight:400!important;}
 .social_lst [class^=icon_]{padding:0;background-repeat:no-repeat}
@@ -388,9 +388,9 @@ height: 0; border-style: solid; border-width: 6px 6px 0 6px; border-color: #ddd 
 .notice-txt-wrap .no_data {margin-top:0;border:1px solid #edeceb;}
 .notice-txt-wrap .bx-controls {}
 .notice-txt-wrap .bx-wrapper .bx-pager {padding:0;position:absolute;right:0;top:-20px;width:auto;height:8px;}
-.icon_download_gy {width:16px;height:17px; background:url(img/icon_download_grey.png) -40px center no-repeat;}
+.icon_download_gy {width:16px;height:17px; background:url(https://www.theminda.com/cust/css/img/icon_download_grey.png) -40px center no-repeat;}
 a:hover .icon_download_gy{background-position:0 center;}
-/*.view_body .sub-tit-wrap { background:url(img/bg_rp_slash.png) 0 center repeat-x;text-align:center;margin:60px 0 30px; }*/
+/*.view_body .sub-tit-wrap { background:url(https://www.theminda.com/cust/css/img/bg_rp_slash.png) 0 center repeat-x;text-align:center;margin:60px 0 30px; }*/
 .view_body .sub-tit-wrap {
     margin:60px 0 0;
 }
@@ -446,9 +446,9 @@ a:hover .icon_download_gy{background-position:0 center;}
 .spot_view_body .side_btn_wrp>*{display:inline-block;vertical-align:middle}
 .spot_view_body .side_btn_wrp .btn{border-color:transparent;color:#fff}
 .spot_view_body .side_btn_wrp .btn.no_style{margin-top:-3px;padding:0;font-size:14px;color:#858585}
-.spot_view_body .side_btn_wrp .btn .icon_like_mint, .spot_guide .side_btn .btn .icon_like_mint, .top-info-area .icon_like_mint{background-image:url(img/icon_like_line.png)}
+.spot_view_body .side_btn_wrp .btn .icon_like_mint, .spot_guide .side_btn .btn .icon_like_mint, .top-info-area .icon_like_mint{background-image:url(https://www.theminda.com/cust/css/img/icon_like_line.png)}
 .spot_view_body .side_btn_wrp .btn.active .icon_like_mint, .spot_view_body .side_btn_wrp .btn:hover .icon_like_mint,
-.spot_guide .side_btn .btn.active .icon_like_mint, .spot_guide .side_btn .btn:hover .icon_like_mint, .top-info-area .btn:hover .icon_like_mint,  .top-info-area .btn.active .icon_like_mint {background-image:url(img/icon_like_mint.png)}
+.spot_guide .side_btn .btn.active .icon_like_mint, .spot_guide .side_btn .btn:hover .icon_like_mint, .top-info-area .btn:hover .icon_like_mint,  .top-info-area .btn.active .icon_like_mint {background-image:url(https://www.theminda.com/cust/css/img/icon_like_mint.png)}
 .spot_view_body .side_btn_wrp .split:before{margin:-3px 18px 0 18px}
 .spot_view_body .side_btn_wrp .split:first-child:before{display:none}
 .spot_gellery{position:relative}
@@ -456,8 +456,8 @@ a:hover .icon_download_gy{background-position:0 center;}
 .spot_gellery .gallery_big_slider li, .course_detail .slider_bx li{height:410px;background-color:#ddd;width:630px!important;}
 .spot_gellery .gallery_big_slider img, .course_detail .slider_bx li img{height:410px;margin:0 auto;}
 .spot_gellery .gallery_num, .course_detail .gallery_num{position:absolute;bottom:0;right:108px;height:54px;padding:17px 20px;background:rgba(0,0,0,.5);color:#fff}
-.spot_gellery .gallery_Controls a.disabled {background-image:url(img/slidebtn_org.jpg)}
-.gallery_Controls a{background-image:url(img/slidebtn_org.jpg)}
+.spot_gellery .gallery_Controls a.disabled {background-image:url(https://www.theminda.com/cust/css/img/slidebtn_org.jpg)}
+.gallery_Controls a{background-image:url(https://www.theminda.com/cust/css/img/slidebtn_org.jpg)}
 .gallery_Controls .bx-next{border-left-color:#f4a983}
 .spot_gellery .spot_info_detail{position:absolute;left:630px;top:0;right:0;bottom:0;padding:35px 40px;background:#fafafa;border:1px solid #edeceb;border-left:0}
 .spot_info_detail .dl-horizontal dt{width:75px;text-align:left;color:#000}
@@ -468,12 +468,12 @@ a:hover .icon_download_gy{background-position:0 center;}
 .spot_reason .view:not(.spot_reason_bx) .viewhd .tmbwrp{overflow:hidden;width:70px;height:70px;border:4px solid #dedede;border-radius:50%;text-align:center}
 .spot_reason .view:not(.spot_reason_bx) .viewhd .tmbwrp img{position:absolute;top:50%;left:50%;width:auto;height:auto;min-width:100%;min-height:100%;border-radius:0;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
 /*2016-08-22 edit yuna*/
-.spot_reason .view-update {padding:0 0 60px 54px;background:url(img/bg_rp_line.png) 22px 0 repeat-y;}
+.spot_reason .view-update {padding:0 0 60px 54px;background:url(https://www.theminda.com/cust/css/img/bg_rp_line.png) 22px 0 repeat-y;}
 .spot_reason .view-update:last-child {background:none;padding-bottom: 0;}
 .spot_reason .view-update .view-box {width:833px;padding:25px 27px;border-radius:3px;border:1px solid #edeceb;background:#fafafa;position:relative;float:left;}
 .spot_reason .view-update .viewhd {background:none;padding:0;border:none;position:static;}
 .spot_reason .view-update .viewhd .tit {font-size:18px;color:#ef8751;line-height:20px;font-weight:500;}
-.spot_reason .view-update .view-box:after,.spot_reason .view-update .view-sub-box:after {content:'';display:block;width:6px;height:10px;background:url(img/ico_arr_bubble.png) 0 0 no-repeat; position:absolute;left:-6px;top:12px;}
+.spot_reason .view-update .view-box:after,.spot_reason .view-update .view-sub-box:after {content:'';display:block;width:6px;height:10px;background:url(https://www.theminda.com/cust/css/img/ico_arr_bubble.png) 0 0 no-repeat; position:absolute;left:-6px;top:12px;}
 .spot_reason .view-update .view-box .viewhd .tmbwrp {width:43px;height:43px;border:none;position:absolute;left:-54px;top:-4px;overflow:visible;}
 .spot_reason .view-update .view-box .viewhd .tmbwrp .badge {width:20px;height:22px;background-size:20px auto;}
 .spot_reason .view-update .view-box .viewhd .tmbwrp img {width:43px;border-radius:50%}
@@ -487,7 +487,7 @@ a:hover .icon_download_gy{background-position:0 center;}
 .spot_reason .view-update .view-sub-box .img-wrap img{position:absolute;top:50%;left:50%;width:auto;height:auto;min-width:100%;min-height:100%;border-radius:0;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%);max-width: 100%;}
 .spot_reason .view-update .view-sub-box .tit {display:block;margin:10px 0 0 0;font-size:14px;color:#333239;letter-spacing:-.4px;font-weight:500;}
 .spot_view_tit{margin-left:85px}
-.spot_reason .view-update .btn-view-more {padding:0 14px 0 0;font-size:14px;color:#333;background:url(img/ico_more_reason.png) right 6px no-repeat;display:inline-block;margin-top:7px;display:none!important}/*2016-09-28 더보기 버튼 일단 숨기*/
+.spot_reason .view-update .btn-view-more {padding:0 14px 0 0;font-size:14px;color:#333;background:url(https://www.theminda.com/cust/css/img/ico_more_reason.png) right 6px no-repeat;display:inline-block;margin-top:7px;display:none!important}/*2016-09-28 더보기 버튼 일단 숨기*/
 .spot_reason .view-update .show-all .viewbody {max-height:none;}
 .spot_reason .view-update .show-all .btn-view-more {background-position: right -11px;}
 .spot_reason .view-update .viewbody img {margin:0;}
@@ -522,7 +522,7 @@ a:hover .icon_download_gy{background-position:0 center;}
 .spot_course_info .sub_title{padding-top:25px}
 .result_hd_side .btn{margin-bottom:-5px}
 .course_lst>li{position:relative;float:left;width:25%;padding:50px 0;margin-bottom:60px;text-align:center}
-.course_lst>li a{position:relative;z-index:1;display:block;width:11px;height:11px;margin:0 auto;background:url(img/spot.png) no-repeat;font-size:0;line-height:0;text-indent:-9999em}
+.course_lst>li a{position:relative;z-index:1;display:block;width:11px;height:11px;margin:0 auto;background:url(https://www.theminda.com/cust/css/img/spot.png) no-repeat;font-size:0;line-height:0;text-indent:-9999em}
 .course_lst>li span{position:absolute;left:0;width:100%;line-height:1.3}
 .course_lst>li:nth-child(4n)~li {float:right}
 .course_lst>li:nth-child(8n)~li {float:left}
@@ -551,8 +551,8 @@ a:hover .icon_download_gy{background-position:0 center;}
 .course_detail:after, .course_trans:after{content:"";position:absolute;top:48px;bottom:0;left:17px;width:1px;border-left:1px dashed #ddd}
 .spot_course>*:last-child:after,.course_detail:last-child:after,.course_trans:last-child:after {display:none}
 .spot_course .gallery_Controls a {width:54px}
-.course_detail:before{background-image:url(img/course.png)}
-.course_trans:before{background-image:url(img/trans.png)}
+.course_detail:before{background-image:url(https://www.theminda.com/cust/css/img/course.png)}
+.course_trans:before{background-image:url(https://www.theminda.com/cust/css/img/trans.png)}
 .course_detail>.color_org{font-size:18px}
 .course_detail .color_org .course_num{position:relative;z-index:1;display:inline-block;margin:9px 30px 0 -45px;font-size:14px}
 .course_detail .txt{padding:20px 0 30px;line-height:1.7}
@@ -623,14 +623,14 @@ a:hover .icon_download_gy{background-position:0 center;}
 .tour_item .price button{display:inline-block}
 .select_tour_wrp .pull-right{text-align:right}
 .select_tour_wrp dl{position:relative;padding:20px;border-top:1px solid #edeceb}
-.select_tour_wrp .total_price:before{content:"";position:absolute;display:block;top:0;left:50%;width:20px;height:20px;margin:-10px 0 0 -10px;background:url(img/total.png) no-repeat}
+.select_tour_wrp .total_price:before{content:"";position:absolute;display:block;top:0;left:50%;width:20px;height:20px;margin:-10px 0 0 -10px;background:url(https://www.theminda.com/cust/css/img/total.png) no-repeat}
 .select_tour_wrp .total_price .color_org small{display:block;font-size:14px}
 .select_tour_wrp dt{font-size:16px;white-space:nowrap;color:#000}
 .select_tour_wrp dd{margin-top:-5px;font-size:23px;font-weight:500;color:#000}
 .select_tour_wrp dd span{display:block;font-size:14px;color:#858585}
 .hd_select_wrp.daterange .datewrp{width:100%}
-.hd_select_wrp.daterange .form-control, .hd_select_wrp.daterange label{width:100%;padding:12px 20px;border:1px solid #f58850;background:#fff url(img/date_arr_down.png) no-repeat 95% 50%;text-align:left;font-size:18px;color:#f58850}
-.hd_select_wrp.daterange .active .form-control, .hd_select_wrp.daterange .active label{background-image:url(img/date_arr_up.png)}
+.hd_select_wrp.daterange .form-control, .hd_select_wrp.daterange label{width:100%;padding:12px 20px;border:1px solid #f58850;background:#fff url(https://www.theminda.com/cust/css/img/date_arr_down.png) no-repeat 95% 50%;text-align:left;font-size:18px;color:#f58850}
+.hd_select_wrp.daterange .active .form-control, .hd_select_wrp.daterange .active label{background-image:url(https://www.theminda.com/cust/css/img/date_arr_up.png)}
 .hd_select_wrp.daterange label, .hd_select_wrp.daterange .form-control:focus+label{padding:13px 20px;border-width:1px}
 .hd_select_wrp .daterangepicker.dropdown-menu, .hd_select_wrp .daterangepicker.show-calendar .calendar{width:100%}
 .hd_select_wrp .daterangepicker.dropdown-menu{margin-top:0}
@@ -642,8 +642,8 @@ a:hover .icon_download_gy{background-position:0 center;}
 .order-quantity .up{border-right:1px solid #ccc}
 .order-quantity .form-control{height:28px;padding:5px;text-align:center;color:#000}
 .icon_quantity_up, .icon_quantity_down{width:100%;height:28px;background:#fafafa;border:1px solid #ccc;border-width:1px 0;border-radius:0;background-position:50% 50%;background-repeat:no-repeat}
-.icon_quantity_up.icon_quantity_up, .icon_plus_xs{background-image:url(img/icon_plus_xs.png)}
-.icon_quantity_down.icon_quantity_down{background-image:url(img/icon_minus_xs.png)}
+.icon_quantity_up.icon_quantity_up, .icon_plus_xs{background-image:url(https://www.theminda.com/cust/css/img/icon_plus_xs.png)}
+.icon_quantity_down.icon_quantity_down{background-image:url(https://www.theminda.com/cust/css/img/icon_minus_xs.png)}
 .icon_plus_xs {width:16px;height:16px;background-position:right center;vertical-align:top;margin-top:2px}
 
 
@@ -654,10 +654,10 @@ a:hover .icon_download_gy{background-position:0 center;}
 .pop_map .map{left:0;right:0;bottom:0;right:0;border-bottom:2px solid #57c1be}
 .pop_map .control_wrp{width:auto;top:95px;right:30px}
 .tour_mark, .lyr_mark_detail{position:absolute;z-index:10}
-.tour_mark:after{content:"";display:block;width:13px;height:13px;margin:0 auto;background:url(img/spot_grey.png) no-repeat 50% 50%}
-.tour_mark:hover:after, .tour_mark:focus:after, .tour_mark.active:after{background-image:url(img/spot_red.png)}
-.tour_mark span{display:block;width:35px;height:50px;padding-top:7px;margin-bottom:2px;background:url(img/tour_mark.png) no-repeat;text-align:center;font-size:14px;letter-spacing:-.07em;color:#464646}
-.tour_mark.active span{width:52px;height:75px;padding-top:11px;margin-bottom:5px;background-image:url(img/tourmark_on.png);font-weight:700;font-size:20px;color:#f72f4c}
+.tour_mark:after{content:"";display:block;width:13px;height:13px;margin:0 auto;background:url(https://www.theminda.com/cust/css/img/spot_grey.png) no-repeat 50% 50%}
+.tour_mark:hover:after, .tour_mark:focus:after, .tour_mark.active:after{background-image:url(https://www.theminda.com/cust/css/img/spot_red.png)}
+.tour_mark span{display:block;width:35px;height:50px;padding-top:7px;margin-bottom:2px;background:url(https://www.theminda.com/cust/css/img/tour_mark.png) no-repeat;text-align:center;font-size:14px;letter-spacing:-.07em;color:#464646}
+.tour_mark.active span{width:52px;height:75px;padding-top:11px;margin-bottom:5px;background-image:url(https://www.theminda.com/cust/css/img/tourmark_on.png);font-weight:700;font-size:20px;color:#f72f4c}
 .lyr_mark_detail{position:fixed;bottom:2px;left:50%;width:590px;margin-left:-285px;padding:20px;background:#fff;}
 .lyr_mark_detail .room-list__detail-list .item {padding: 0 20px}
 .lyr_mark_detail .thmb{position:relative;float:left}
@@ -668,38 +668,38 @@ a:hover .icon_download_gy{background-position:0 center;}
 .lyr_mark_detail .des .cate{display:block;margin:0;font-size:15px;color:#f5a212}
 .lyr_mark_detail .des .twoline, .lyr_mark_detail .des .tit{height:2.6em;margin-bottom:0;color:#000;font-size:20px;}
 .lyr_mark_detail .des .ellipsis {height:auto;font-size:20px;margin-top:5px;padding-right:25px}
-.lyr_mark_detail .icon_close_grey{position:absolute;top:0;right:0;width:50px;height:50px;background-image:url(img/icon/icon_clse_sm.svg);-webkit-background-size:11px auto;background-size:11px auto;}
+.lyr_mark_detail .icon_close_grey{position:absolute;top:0;right:0;width:50px;height:50px;background-image:url(https://www.theminda.com/cust/css/img/icon/icon_clse_sm.svg);-webkit-background-size:11px auto;background-size:11px auto;}
 .lyr_mark_detail .price {font-size:20px;font-weight:500;margin:0;}
 .lyr_mark_detail .before_price {color:#cacaca;}
 .lyr_mark_detail .current_price {color:#000;}
 .lyr_mark_detail--v2 .thmb img{width:180px;height:130px}
 .lyr_mark_detail--v2 .des{margin-left:200px;height:130px;padding-top:5px;}
-.ctrlmap{width:34px;height:34px;background:url(img/ctrl_map.jpg) no-repeat;box-shadow:2px 2px 5px rgba(0, 0, 0, .2)}
+.ctrlmap{width:34px;height:34px;background:url(https://www.theminda.com/cust/css/img/ctrl_map.jpg) no-repeat;box-shadow:2px 2px 5px rgba(0, 0, 0, .2)}
 .control_wrp button{display:block}
 .map_control{margin-bottom:10px;}
 .map_control .btn-wrap {position:relative;}
 .map_control .btn-wrap button {position:relative;z-index:3}
 .map_control .choice_sights {top:0;}
-.map_control .food, .map_control .shop, .map_control .attraction{width:72px;height:72px;background:url(img/spotcontrol_off.png) no-repeat 50% 0;transition:none}
+.map_control .food, .map_control .shop, .map_control .attraction{width:72px;height:72px;background:url(https://www.theminda.com/cust/css/img/spotcontrol_off.png) no-repeat 50% 0;transition:none}
 .map_control .shop{background-position:50% 50%}
 .map_control .attraction{background-position:50% 100%}
-.map_control .food.on, .map_control .shop.on, .map_control .attraction.on{background-image:url(img/spotcontrol_on.png)}
+.map_control .food.on, .map_control .shop.on, .map_control .attraction.on{background-image:url(https://www.theminda.com/cust/css/img/spotcontrol_on.png)}
 .markerfood, .markershop, .markerattraction{position:absolute;z-index:10;width:36px;height:47px;background-repeat:no-repeat;background-position:50% 100%;cursor:pointer;transform:scale(1);-webkit-transition:none;transition:none;font-size:0;line-height:0;text-indent:-999em}
-.markerfood{background-image:url(img/markerFood.png);background-size:18px auto;transform:scale(0.5) !important;width:18px !important;}
-.markershop{background-image:url(img/markerShop.png)}
-.markerattraction{background-image:url(img/markerAttraction.png)}
-.markerConven{background-image:url(img/markerConven.png)}
+.markerfood{background-image:url(https://www.theminda.com/cust/css/img/markerFood.png);background-size:18px auto;transform:scale(0.5) !important;width:18px !important;}
+.markershop{background-image:url(https://www.theminda.com/cust/css/img/markerShop.png)}
+.markerattraction{background-image:url(https://www.theminda.com/cust/css/img/markerAttraction.png)}
+.markerConven{background-image:url(https://www.theminda.com/cust/css/img/markerConven.png)}
 .markerfood:hover, .markerfood.active, .markershop:hover, .markershop.active, .markerattraction:hover, .markerattraction.active, .markerConven:hover, .markerConven.active{-webkit-transition:all .3s;transition:all .3s;-ms-transform:scale(2);-webkit-transform:scale(2);transform:scale(1.5);background-size:24px 32px}
-/*.markerfood:hover, .markerfood.active{background-image:url(img/markerFood_on.png)}*/
-.markershop:hover, .markershop.active{background-image:url(img/markerShop_on.png)}
-.markerattraction:hover, .markerattraction.active{background-image:url(img/markerAttraction_on.png)}
-.markerConven:hover, .markerConven.active {background-image:url(img/markerConven_on.png)}
+/*.markerfood:hover, .markerfood.active{background-image:url(https://www.theminda.com/cust/css/img/markerFood_on.png)}*/
+.markershop:hover, .markershop.active{background-image:url(https://www.theminda.com/cust/css/img/markerShop_on.png)}
+.markerattraction:hover, .markerattraction.active{background-image:url(https://www.theminda.com/cust/css/img/markerAttraction_on.png)}
+.markerConven:hover, .markerConven.active {background-image:url(https://www.theminda.com/cust/css/img/markerConven_on.png)}
 [class^=label_best]{position:absolute;top:0;right:20px;width:51px;height:70px;background-repeat:no-repeat;font-size:0;line-height:0;text-indent:-9999em}
-.label_best1{background-image:url(img/best1.png)}
-.label_best2{background-image:url(img/best2.png)}
-.label_best3{background-image:url(img/best3.png)}
-.label_best4{background-image:url(img/best4.png)}
-.label_best5{background-image:url(img/best5.png)}
+.label_best1{background-image:url(https://www.theminda.com/cust/css/img/best1.png)}
+.label_best2{background-image:url(https://www.theminda.com/cust/css/img/best2.png)}
+.label_best3{background-image:url(https://www.theminda.com/cust/css/img/best3.png)}
+.label_best4{background-image:url(https://www.theminda.com/cust/css/img/best4.png)}
+.label_best5{background-image:url(https://www.theminda.com/cust/css/img/best5.png)}
 /*2016-08-22 수정*/
 body.full-ly {overflow:hidden; height:100%}
 .ly-pop-map {position:fixed;width:100%;height:96%;top:0;left:0;z-index:2100;}
@@ -727,13 +727,13 @@ body.full-ly {overflow:hidden; height:100%}
 .sub_bg .txt1 {font-size:42px;letter-spacing:-1.5px;font-weight:500;padding-top:50px;}
 .nation_lst_wrp [class*=icon_]{width:21px;height:21px;margin:-5px 7px 0 0}
 .hd_title [class*=icon_]{width:37px;height:38px;margin:-9px 10px 0 0}
-.hd_title .icon_italy{background-image:url(img/italy_lg.png)}
+.hd_title .icon_italy{background-image:url(https://www.theminda.com/cust/css/img/italy_lg.png)}
 .hd_title+p{padding-top:10px;font-size:22px;word-break:break-all;padding:0 30px;}
-.icon_japan{background-image:url(img/japan.png)}
-.icon_usa{background-image:url(img/usa.png)}
-.icon_germany{background-image:url(img/germany.png)}
-.icon_ntld{background-image:url(img/netherlands.png)}
-.icon_italy{background-image:url(img/italy.png)}
+.icon_japan{background-image:url(https://www.theminda.com/cust/css/img/japan.png)}
+.icon_usa{background-image:url(https://www.theminda.com/cust/css/img/usa.png)}
+.icon_germany{background-image:url(https://www.theminda.com/cust/css/img/germany.png)}
+.icon_ntld{background-image:url(https://www.theminda.com/cust/css/img/netherlands.png)}
+.icon_italy{background-image:url(https://www.theminda.com/cust/css/img/italy.png)}
 .main_banner [class^=col-]{margin-bottom:10px}
 .thema_tit{font-size:28px}
 .thema_dsc{font-size:16px}
@@ -787,7 +787,7 @@ body.full-ly {overflow:hidden; height:100%}
 .guidebook .dl-horizontal dt{width:70px;text-align:left}
 .guidebook .dl-horizontal dd{margin:0 0 10px 70px;color:#f58850}
 .guidebook a:hover .dl-horizontal dd, .guidebook a:focus .dl-horizontal dd{color:#fff}
-.guidebook .bx-controls-direction a, .guidebook .bx-controls-direction a.bx-next{width:53px;margin-top:-27px;background-image:url(img/slidebtn.png)}
+.guidebook .bx-controls-direction a, .guidebook .bx-controls-direction a.bx-next{width:53px;margin-top:-27px;background-image:url(https://www.theminda.com/cust/css/img/slidebtn.png)}
 .guidebook .bx-controls-direction a{left:-34px}
 .guidebook .bx-controls-direction a.bx-next{right:-34px}
 .mypage .customer_center{margin-top:60px;background:#f7f7f7}
@@ -812,8 +812,8 @@ body.full-ly {overflow:hidden; height:100%}
 .tb_delivery{border-top:0}
 .tb_delivery tr:first-child th, .tb_delivery tr:first-child td{border-top-color:#b3b3b3}
 .tb_delivery td[rowspan='4']{border-bottom:1px solid #b3b3b3}
-.icon_mail{background-image:url(img/icon_mail_dark.png)}
-.icon_user_grey{background-image:url(img/icon_user_dark.png)}
+.icon_mail{background-image:url(https://www.theminda.com/cust/css/img/icon_mail_dark.png)}
+.icon_user_grey{background-image:url(https://www.theminda.com/cust/css/img/icon_user_dark.png)}
 .dl_room_info .icon_user_grey{margin-top:3px}
 .pop_cnt .sub_title{padding-top:0;font-size:22px}
 .pop_cnt .dl_pay dd{margin-bottom:0}
@@ -821,7 +821,7 @@ body.full-ly {overflow:hidden; height:100%}
 .guide_title .btn_back, .guide_title .tit{color:#fff}
 .guide_title .btn_back{font-size:18px}
 .guide_title .tit{margin-top:10px;font-size:38px}
-.icon_back_arr{width:27px;height:27px;margin:-5px 8px 0 0;background-image:url(img/icon_back_arr.png)}
+.icon_back_arr{width:27px;height:27px;margin:-5px 8px 0 0;background-image:url(https://www.theminda.com/cust/css/img/icon_back_arr.png)}
 .guide_title .basic_step2 li{border:0;background:rgba(0,0,0,.5)}
 .guide_title .basic_step2 li+li{border-left:1px solid #534a42}
 .guide_title .basic_step2 li a {color:#fff;}
@@ -849,10 +849,10 @@ body.full-ly {overflow:hidden; height:100%}
 .lst-pop-nation >li >dl dd {color:#888;line-height:26px}
 .lst-pop-nation img{width:20px;height:20px;margin:-2px 5px 0 0;border-radius:50%}
 .spot_review .border_bx{padding:20px;margin-bottom:25px;background:#fafafa}
-.choicerating label{width:15px;background-image:url(img/star_off.png)}
-.choicerating label.on{background-image:url(img/star_on.png)}
-.choicerating.xl label{width:27px;height:21px;background-image:url(img/star_xl_off.png)}
-.choicerating.xl label.on{background-image:url(img/star_xl_on.png);}
+.choicerating label{width:15px;background-image:url(https://www.theminda.com/cust/css/img/star_off.png)}
+.choicerating label.on{background-image:url(https://www.theminda.com/cust/css/img/star_on.png)}
+.choicerating.xl label{width:27px;height:21px;background-image:url(https://www.theminda.com/cust/css/img/star_xl_off.png)}
+.choicerating.xl label.on{background-image:url(https://www.theminda.com/cust/css/img/star_xl_on.png);}
 
 /*2016-08-24 yuna: total search edit*/
 .total_srch_result {padding-top:30px;}
@@ -909,8 +909,8 @@ body.full-ly {overflow:hidden; height:100%}
 .room_detail_lst .thumb{position:relative;width:180px;height:130px;overflow:hidden;text-align:center}
 .side-room-con {}
 .side-room-con .filter2 .form-group {border-bottom:1px solid #e2e2e2;margin-bottom:12px;padding:0 0 12px 0;}
-.side-room-con .btn-group .btn{border:none;background-color:transparent;background:url(img/ico_chk.png) 0 center no-repeat;color:#666;font-weight:500;text-align:left;padding:0 0 0 29px;margin:5px 0;height:23px;font-size:13px;}
-.side-room-con .btn-group .btn.active {background:url(img/ico_chk_on.png) 0 center no-repeat;color:#57c1be;}
+.side-room-con .btn-group .btn{border:none;background-color:transparent;background:url(https://www.theminda.com/cust/css/img/ico_chk.png) 0 center no-repeat;color:#666;font-weight:500;text-align:left;padding:0 0 0 29px;margin:5px 0;height:23px;font-size:13px;}
+.side-room-con .btn-group .btn.active {background:url(https://www.theminda.com/cust/css/img/ico_chk_on.png) 0 center no-repeat;color:#57c1be;}
 .side-room-con .filter_wrp:after {border:none;display:none}
 .side-room-con .filter_wrp .icon_more {width:25px;height:25px;margin:4px 0 0 0;}
 .side-room-con .filter_wrp{height:33px}
@@ -984,7 +984,7 @@ body.full-ly {overflow:hidden; height:100%}
 .main-top-area .banner3 .txt-area .txt2 {font-size:22px;text-align:right;width:690px;margin:0 auto;padding-top:60px;}
 .main-top-area .banner3 .txt-area .txt2 a {color:#261212!important;display:block;line-height:1em;}
 .main-top-area .banner5 .txt-area {padding-top:90px;}
-.main-top-area .banner4 .txt-area {padding-top:80px;background:url(img/main/bg_main_top16.png) 0 91px no-repeat;text-align:left;width:1100px;margin:0 auto;padding-left:270px;height:455px;}
+.main-top-area .banner4 .txt-area {padding-top:80px;background:url(https://www.theminda.com/cust/css/img/main/bg_main_top16.png) 0 91px no-repeat;text-align:left;width:1100px;margin:0 auto;padding-left:270px;height:455px;}
 .main-top-area .banner4 .txt1 {font-size:24px;margin-bottom:3px}
 .main-top-area .banner4 .txt2 {font-weight:700;font-size:66px;}
 .main-top-area .banner4 .txt3 {font-size:30px}
@@ -1002,7 +1002,7 @@ body.full-ly {overflow:hidden; height:100%}
 .main-top-area .txt2 {font-size:55px;margin:0 0 20px 0;line-height:70px}
 .main-top-area .txt3 {font-size:20px;line-height:32px;font-weight:100}
 .main-top-area .main-top-arr {position:absolute;top:0;left:0;right:0;z-index:50}
-.main-top-area .main-top-arr a {display:block;position:absolute;width:50px;height:50px;background-image:url(img/main/btn_top_img.png);top:203px;display:inline-block;}
+.main-top-area .main-top-arr a {display:block;position:absolute;width:50px;height:50px;background-image:url(https://www.theminda.com/cust/css/img/main/btn_top_img.png);top:203px;display:inline-block;}
 .sub_bg .main-top-area .main-top-arr a {top:153px;}
 .main-top-area .main-top-arr .bx-prev {left:40px;background-position:0 0}
 .main-top-area .main-top-arr .bx-next {right:40px;background-position:0 -50px}
@@ -1012,7 +1012,7 @@ body.full-ly {overflow:hidden; height:100%}
 .main-srch-area .search_wrap .tab li {display:inline-block;}
 .main-srch-area .search_wrap .tab a {display:inline-block;padding:0 15px;}
 .main-srch-area .search_wrap .tab .radio_label:before {margin-right:5px;}
-.main-srch-area .active .radio_label:before {background:url(img/ico_dot_gray.png) center center no-repeat;}
+.main-srch-area .active .radio_label:before {background:url(https://www.theminda.com/cust/css/img/ico_dot_gray.png) center center no-repeat;}
 .main-srch-area .tab-content {background:#eee;border-radius:3px;width:760px;margin:0 auto; }
 .main-srch-area .tab-content>.tab-pane {overflow:visible;display:none;padding:0 7px 0 0;}
 .main-srch-area .tab-content>.tab-pane.active {display:block;position:relative;}
@@ -1075,15 +1075,15 @@ body.full-ly {overflow:hidden; height:100%}
 .main-event-area li .tit {font-size:15px;color:#333;display:block;margin:0 0 3px 0;}
 .main-event-area span.color_red {font-size:25px;display:block;margin:0 0 3px 0;}
 .main-event-area li .txt {font-size:13px;color:#888;word-break:break-all;}
-.main-event-area li.li1 a {background:url(img/main/ico_discount.png) 42px center no-repeat #fff;}
-.main-event-area li.li2 a {background:url(img/main/ico_event.png) 31px center no-repeat #fff;}
-.main-event-area li.li3 a {background:url(img/main/ico_coupon.png) 37px center no-repeat #fff;}
+.main-event-area li.li1 a {background:url(https://www.theminda.com/cust/css/img/main/ico_discount.png) 42px center no-repeat #fff;}
+.main-event-area li.li2 a {background:url(https://www.theminda.com/cust/css/img/main/ico_event.png) 31px center no-repeat #fff;}
+.main-event-area li.li3 a {background:url(https://www.theminda.com/cust/css/img/main/ico_coupon.png) 37px center no-repeat #fff;}
 .main-tip-area {height:340px;}
 .main-tip-area ul {overflow:hidden;width:100%;min-width:1100px;position:relative;height:340px;}
 .main-tip-area .tip-wrap{height:340px;text-align:center;padding:62px 0 46px;position:relative;display:none;width:100%;}
-.main-tip-area .tip-wrap0 {background:url(img/main/bg_mid0.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;}
-.main-tip-area .tip-wrap1 {background:url(img/main/bg_mid1.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;}
-.main-tip-area .tip-wrap2 {background:url(img/main/bg_mid2.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;}
+.main-tip-area .tip-wrap0 {background:url(https://www.theminda.com/cust/css/img/main/bg_mid0.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;}
+.main-tip-area .tip-wrap1 {background:url(https://www.theminda.com/cust/css/img/main/bg_mid1.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;}
+.main-tip-area .tip-wrap2 {background:url(https://www.theminda.com/cust/css/img/main/bg_mid2.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;}
 .main-tip-area .txt1 {margin:0 0 25px 0;display:block;}
 .main-tip-area .txt2 {font-size:26px;margin:0 0 30px 0;color:#fff;}
 .index .btn-area .btn {background:#d4d4d3 !important;color:#333;font-size:15px;padding:0 22px;font-weight:500;letter-spacing:-1px}
@@ -1162,7 +1162,7 @@ body.full-ly {overflow:hidden; height:100%}
 .tbl-wrap.v2 .nobor td{border-left-width:1px;border-right-width:1px;}
 .accordion.lst-ref {}
 .accordion.lst-ref .acc_btn, .lst-ref > .tit-ref {position:relative;width:100%;padding:20px;border:1px solid #edeceb;border-bottom:0;font-weight:500;line-height:1.1;text-align:left;color:#333239;text-align:center;font-size:16px;color:#333;border-bottom-width:0;background-color:#f7f7f7}
-.accordion.lst-ref .acc_btn:after {content:'';display:block;position:absolute;width:22px;height:12px;background:url(img/icon_updown_grey.png) 0 0 no-repeat;top:50%;margin-top:-6px;right:20px;}
+.accordion.lst-ref .acc_btn:after {content:'';display:block;position:absolute;width:22px;height:12px;background:url(https://www.theminda.com/cust/css/img/icon_updown_grey.png) 0 0 no-repeat;top:50%;margin-top:-6px;right:20px;}
 .accordion.lst-ref .acc_btn.open:after {background-position: 0 -12px}
 .accordion.lst-ref .acc_cnt {display:none;}
 .lst-ref .acc_cnt {border:1px solid #edeceb;border-bottom-width:0;padding:30px;}
@@ -1202,11 +1202,11 @@ body.full-ly {overflow:hidden; height:100%}
 .daterangepicker.dropdown-menu.single .ranges {display:block!important;}
 .daterangepicker.dropdown-menu.single .applyBtn {display:none;}
 .daterangepicker.dropdown-menu.single .icon_calendar_close {position:absolute;top:0;right:0;text-indent:-999em;overflow:hidden;height:40px;}
-.daterangepicker.dropdown-menu.single .icon_calendar_close:focus{background-image:url(img/calendar_close.png)}
+.daterangepicker.dropdown-menu.single .icon_calendar_close:focus{background-image:url(https://www.theminda.com/cust/css/img/calendar_close.png)}
 .daterangepicker.dropdown-menu.single  .calendar{padding-top:50px;}
 .daterangepicker.single  .calendar {width:100%;}
 .input-wrap.input-cal {padding:0 10px 0 0;position:relative;}
-.input-cal input{display:block;width:100%;padding-right:35px;padding: 8px 25px 8px 10px;background: url(img/calender.png) right center no-repeat;cursor:pointer;}
+.input-cal input{display:block;width:100%;padding-right:35px;padding: 8px 25px 8px 10px;background: url(https://www.theminda.com/cust/css/img/calender.png) right center no-repeat;cursor:pointer;}
 .input-wrap .close-btn-wrap {position:absolute;top:0;right:0px;height:100%;}
 .input-wrap.input-cal .close-btn-wrap{right:10px}
 .input-wrap .icon_date_close {width:40px;height:100%}
@@ -1215,8 +1215,8 @@ body.full-ly {overflow:hidden; height:100%}
 .eurail_banner_area .lst-banner {margin:-0 -5px;}
 .eurail_banner_area [class^=col-]{padding:0 5px}
 .event_eurail_wrap {margin-top:70px;}
-.event_eurail_wrap {width:1100px;height:1921px;background:url(img/bg_eurail_event.jpg) 0 0 no-repeat;padding:598px 62px 0;}
-.event_eurail_wrap .list-gift {height:642px;background:url(img/img_eurail_gift.png?v=2) 0 0 no-repeat;text-indent:130%;overflow:hidden;white-space:nowrap;}
+.event_eurail_wrap {width:1100px;height:1921px;background:url(https://www.theminda.com/cust/css/img/bg_eurail_event.jpg) 0 0 no-repeat;padding:598px 62px 0;}
+.event_eurail_wrap .list-gift {height:642px;background:url(https://www.theminda.com/cust/css/img/img_eurail_gift.png?v=2) 0 0 no-repeat;text-indent:130%;overflow:hidden;white-space:nowrap;}
 .bx-rnd {border-radius:5px}
 .event_eurail_wrap .lst_type_bar dt{margin:28px 0 5px;color:#333;font-size:18px;font-weight:500}
 .event_eurail_wrap .lst_type_bar dt:first-child {margin-top:0;}
@@ -1442,15 +1442,15 @@ body.full-ly {overflow:hidden; height:100%}
 .lst-course li a {font-size:15px;position:relative;;display:block;padding-left:20px;}
 .lst-course li {position:relative;display:inline-block;margin:0 30px 11px 0;}
 /*.lst-course li:before {content:'';position:absolute;height:100%;width:1px;background-color:#dddddd;left:3px;top:18px;}*/
-.lst-course li a:before {content:'';display:inline-block;vertical-align:top;position:absolute;left:0;top:4px;background-image:url(img/icon_course_grey.png);width:16px;height:19px;background-size:16px auto;z-index:1}
+.lst-course li a:before {content:'';display:inline-block;vertical-align:top;position:absolute;left:0;top:4px;background-image:url(https://www.theminda.com/cust/css/img/icon_course_grey.png);width:16px;height:19px;background-size:16px auto;z-index:1}
 .lst-course li:last-child:before{display:none;}
 .lst-course li .course_num {display:inline-block;z-index:2;position:absolute;width:16px;left:0;top:7px;font-size:10px;font-family:'Lato';text-align:center;line-height:1em;font-weight:bold;}
-.course_detail.v2:before {background-image:url(img/icon_course_grey.png);width:29px;height:35px;}
+.course_detail.v2:before {background-image:url(https://www.theminda.com/cust/css/img/icon_course_grey.png);width:29px;height:35px;}
 .course_detail.v2 .course_num {color:#484848;}
 .course_detail.v2:after{border-left:1px solid #ddd;left:14px;top:35px;}
 .course_detail.v2:last-child:after{border-left-width:0;}
 .course_detail .gallery_Controls {right:auto;left:0;}
-.course_detail .gallery_Controls a{width:54px;background-image:url(img/slidebtn_grey.png);text-indent:-999em;overflow:hidden;white-space:nowrap;}
+.course_detail .gallery_Controls a{width:54px;background-image:url(https://www.theminda.com/cust/css/img/slidebtn_grey.png);text-indent:-999em;overflow:hidden;white-space:nowrap;}
 .course_detail .slider_bx li img {height:410px;margin:0;}
 .course_detail .slider_bx li {background:#fff;}
 .prod_view .bx_more_obj.over .txt_bx {max-height:390px;}
@@ -1508,7 +1508,7 @@ body.full-ly {overflow:hidden; height:100%}
 .pop-resve-tour .daterangepicker table {table-layout:fixed;}
 .pop-resve-tour .table-condensed>tbody>tr>td, .pop-resve-tour .table-condensed>tbody>tr>th, .pop-resve-tour .table-condensed>tfoot>tr>td, .pop-resve-tour .table-condensed>tfoot>tr>th, .pop-resve-tour .table-condensed>thead>tr>td, .table-condensed>thead>tr>th {padding:6px 5px;min-width:auto!important;width:auto!important;font-size:12px;border:0;}
 .pop-resve-tour .daterangepicker td, .daterangepicker th, .pop-resve-tour .daterangepicker td.start-date.end-date {font-size:12px;}
-.pop-resve-tour .calendar-table .prev i, .pop-resve-tour .calendar-table .next i{width:24px;height:24px;background-image:url(img/tour_cal_controls.png);margin-top:7px;}
+.pop-resve-tour .calendar-table .prev i, .pop-resve-tour .calendar-table .next i{width:24px;height:24px;background-image:url(https://www.theminda.com/cust/css/img/tour_cal_controls.png);margin-top:7px;}
 .pop-resve-tour .calendar-table .next i{background-position:-24px 0}
 .pop-resve-tour .inner {padding:0 10px 10px;}
 /*.pop-resve-tour .lst-option {max-height:135px;overflow:auto;}*/
@@ -1526,7 +1526,7 @@ body.full-ly {overflow:hidden; height:100%}
 .pop-resve-tour .total_price {padding:12px 10px 24px;}
 .pop-resve-tour .total_price .color_red {font-size:20px;}
 .pop-resve-tour .btn-reserv-in {height:52px;font-size:18px;}
-.icon_arr_lg {width:20px;height:11px;background:url(img/icon_arr_lg.png) 0 0 no-repeat;}
+.icon_arr_lg {width:20px;height:11px;background:url(https://www.theminda.com/cust/css/img/icon_arr_lg.png) 0 0 no-repeat;}
 .over .icon_arr_lg {background-position:-40px 0}
 .pop-resve-tour .txt-disabled {background:#fff;color:#484848;text-align:left;padding:16px 15px;}
 .pop-resve-tour .daterangepicker .calendar th {height:53px;vertical-align:top;}
@@ -1598,7 +1598,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .event_201703 .list-room .label {display:inline-block;width:42px;height:42px;background:#fff;border-radius:50%;text-align:center;line-height:39px;z-index:10;color:#e93d3d;font-size:15px;position:absolute;bottom:10px;left:10px;}
 .event_201703 .list-room li{padding:0 20px;margin-bottom:50px;position:relative;}
 .event_201703 .list-room li:nth-child(2n+1) {clear:both;}
-.event_201703 .list-room li.closed:after {content:'';display:block;position:absolute;background-color:rgba(0,0,0,.5);top:0;left:20px;right:20px;bottom:0;background-image:url(img/event/201703/pc/icon_sale_end.png);background-position:center center;background-repeat:no-repeat;z-index:10;}
+.event_201703 .list-room li.closed:after {content:'';display:block;position:absolute;background-color:rgba(0,0,0,.5);top:0;left:20px;right:20px;bottom:0;background-image:url(https://www.theminda.com/cust/css/img/event/201703/pc/icon_sale_end.png);background-position:center center;background-repeat:no-repeat;z-index:10;}
 .event_201703 .list-room li a {display:table;width:100%;table-layout:fixed;}
 .event_201703 .list-room li a .thumb {display:table-cell;width:200px;height:200px;overflow:hidden;vertical-align:top}
 .event_201703 .list-room li a .thumb img {width:auto;min-width:100%;min-height:100%;position:absolute;top:0;left:50%;height:200px;margin-top:0;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);-moz-transform:translate(-50%,0%);transform:translate(-50%,0);text-align:center;}
@@ -1629,7 +1629,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 
 .free_event_pop {max-width:800px;margin:0 auto;}
 .free_event_pop #container{padding:0;}
-.free_event_pop .pop_hd {padding:35px 40px;background-:url(img/event/201703/free/bg_header.jpg) no-repeat #4db4f6;position:relative;}
+.free_event_pop .pop_hd {padding:35px 40px;background-:url(https://www.theminda.com/cust/css/img/event/201703/free/bg_header.jpg) no-repeat #4db4f6;position:relative;}
 .free_event_pop .pop_hd h1 {font-size:40px;}
 .free_event_pop .pop_hd button {position:absolute;right:38px;top:40px;}
 .free_event_pop .tit {border-bottom:1px solid #484848;text-align:center;margin-bottom:65px}
@@ -1643,7 +1643,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 
 .sub-main-wrap .con1 {padding:35px 0 40px;border-bottom:1px solid #efefef}
 .sub-main-wrap .con3 {margin-bottom:-90px}
-.arr-list-city  div a {display:inline-block;background-image: url(img/tg/main/spr_btn_arr.png);width:40px;height:40px;}
+.arr-list-city  div a {display:inline-block;background-image: url(https://www.theminda.com/cust/css/img/tg/main/spr_btn_arr.png);width:40px;height:40px;}
 .arr-list-city  div {position:absolute;top:50%;margin-top:-20px;}
 .arr-list-city .icon_prev_sm {left:-50px;}
 .arr-list-city .icon_next_sm {right:-50px;}
@@ -1686,7 +1686,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .sub-mid-area .sub-mid-slide .img-wrap {height:702px;}
 .sub-mid-area .bx-viewport {height:702px!important;}
 .sub-mid-area .main-top-silde >li {min-height:702px}
-.sub-mid-area .main-top-arr a {background-image:url(img/spr_btn_slide.png);top:333px;}
+.sub-mid-area .main-top-arr a {background-image:url(https://www.theminda.com/cust/css/img/spr_btn_slide.png);top:333px;}
 .sub-mid-area .txt-area {padding:150px 0 0 0;}
 .sub-mid-area .txt-area .hd_title {font-size:50px;color:#fff;letter-spacing:-2px;font-weight:700}
 .sub-mid-area .txt-area .txt1{font-size:23px;margin:35px 0 0 0;letter-spacing:-1.5px}
@@ -1695,7 +1695,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .sub-mid-area .btn-area a:hover {background-color:transparent;}
 
 .video-controls {position:absolute;top:0;left:0;right:0;bottom:0;}
-.video-controls [class*=icon_] {background:url(img/spr_video_controls.png) no-repeat;}
+.video-controls [class*=icon_] {background:url(https://www.theminda.com/cust/css/img/spr_video_controls.png) no-repeat;}
 .video-controls .pos-center {width:80px;height:80px;opacity:0;-webkit-transition:opacity .6s;transition:opacity .6s;}
 .video-controls:hover .pos-center {opacity: 1}
 /*.video-controls .icon_start {width:80px;height:80px;}*/
@@ -1759,7 +1759,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 }
 .main-trip-area .txt-wrap .txt1{font-size:24px;font-weight:500}
 .main-trip-area .txt-wrap .txt2{font-size:18px;opacity:.73;line-height:18px;font-weight:300;margin-top:14px;letter-spacing:-1px}
-.main-service-area [class*=icon_]{background-image:url(img/main/spr_icon_service.png);width:59px;height:67px;position:absolute;top:50%;margin-top:-38px;left:25px;}
+.main-service-area [class*=icon_]{background-image:url(https://www.theminda.com/cust/css/img/main/spr_icon_service.png);width:59px;height:67px;position:absolute;top:50%;margin-top:-38px;left:25px;}
 .icon_eurail {background-position:0 0}
 .icon_rent{background-position:-60px 0}
 .icon_pocket{background-position:-120px 0;margin-top:-7px;}
@@ -1793,7 +1793,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
     color:#484848;
 }
 
-.icon_result {width:20px;height:21px;background-image:url(img/spr_icon_srch.png);vertical-align:top;margin:-2px 1px 0 0}
+.icon_result {width:20px;height:21px;background-image:url(https://www.theminda.com/cust/css/img/spr_icon_srch.png);vertical-align:top;margin:-2px 1px 0 0}
 .house{background-position:0 0}
 .loc{background-position:-20px 0}
 .way{background-position:-40px 0}
@@ -1820,7 +1820,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .pagination-wrap .pagination {margin-top:0;}
 .nation_lst_wrap {max-height:92px;overflow:hidden;}
 .open .nation_lst_wrap{max-height:none;}
-.arr_select{display:inline-block;vertical-align:middle;width:13px;height:8px;background:url(img/spr_arr_select.png) 0 0 no-repeat;margin-left:5px;}
+.arr_select{display:inline-block;vertical-align:middle;width:13px;height:8px;background:url(https://www.theminda.com/cust/css/img/spr_arr_select.png) 0 0 no-repeat;margin-left:5px;}
 .open .arr_select {background-position:right -50px;}
 .filter_nation .btn_more{border:1px solid #edeceb;background-color:#fff;padding:5px 18px;color:#888;position:absolute;right:-1px;bottom:-32px;display:none;}
 .sub_bg  .trip-top-slide .txt-area {padding:90px 0 0 0;}
@@ -1845,7 +1845,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .mb-90{margin-bottom:-90px}
 
 .other-controls{position:absolute;right:0;bottom:6px;}
-.other-controls  a, .txt_slider_ctrl a,.ad-list__controls a {display:inline-block;width:33px;height:27px;background-image:url(img/other_controls.png?v=2);text-indent:-1000em;overflow:hidden;}
+.other-controls  a, .txt_slider_ctrl a,.ad-list__controls a {display:inline-block;width:33px;height:27px;background-image:url(https://www.theminda.com/cust/css/img/other_controls.png?v=2);text-indent:-1000em;overflow:hidden;}
 .other-controls .other-prev a, .txt_slider_ctrl .prev a {background-position:0 0 }
 .other-controls .other-next a,.txt_slider_ctrl .next a {background-position:-38px 0}
 .other-controls .disabled, .txt_slider_ctrl .disabled {opacity:0.3;cursor:default;}
@@ -1859,12 +1859,12 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .insur_info_bx .info1 .logo-area {width:190px;}
 .insur_info_bx .info1, .insur_info_bx .info2 {color:#666;}
 .insur_info_bx .info2 {margin-top:50px;background-color:#f7f7f7;padding:30px 0;}
-.insur_info_bx .info2 li .icon_insur{position:absolute;height:41px;background:url(img/addition/spr_icon_insur.png) 0 0;text-wrap: none;width:48px;left:40px;top:15px;}
+.insur_info_bx .info2 li .icon_insur{position:absolute;height:41px;background:url(https://www.theminda.com/cust/css/img/addition/spr_icon_insur.png) 0 0;text-wrap: none;width:48px;left:40px;top:15px;}
 .insur_info_bx .info2 li {padding:13px 0 13px 95px}
 .insur_info_bx .info2 li.li2 .icon_insur{width:34px;background-position:-90px 0;left:45px;}
 .insur_info_bx .info2 li.li3 .icon_insur{width:38px;background-position:-48px 0;left:25px;}
 .insur_info_bx .info2 li.li3 {padding-left:75px;}
-.insur_info_bx .info3 .icon_insur2 {width:60px;height:61px;background-image:url(img/addition/spr_icon_insur2.png);display:inline-block;margin-bottom:28px}
+.insur_info_bx .info3 .icon_insur2 {width:60px;height:61px;background-image:url(https://www.theminda.com/cust/css/img/addition/spr_icon_insur2.png);display:inline-block;margin-bottom:28px}
 .icon_insur2.icon1 {background-position:0 0}
 .icon_insur2.icon2 {background-position:-60px 0}
 .icon_insur2.icon3 {background-position:-120px 0}
@@ -1882,7 +1882,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .service_info_bx .top-txt-area .txt{color:#aaa;}
 .jungfrau_info_bx {width:720px;margin:-40px auto 0;}
 
-.icon_external {width:33px;height:33px;background-image:url(img/spr_icon_external.png);}
+.icon_external {width:33px;height:33px;background-image:url(https://www.theminda.com/cust/css/img/spr_icon_external.png);}
 .sub_title .icon_external {margin:-5px 15px 0 0;}
 .icon_external.fb{background-position:0 0}
 .icon_external.naver{background-position:-33px 0}
@@ -1903,7 +1903,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .banner__trip-intro__list li{display:inline-block;margin:0 3px 0 4px;}
 .banner__tip-intro__tag{display:inline-block;font-size:26px;letter-spacing:-1.6px;font-weight:500;line-height:1em;vertical-align:top;padding:16px 33px 18px;background-color:rgba(0,0,0,0.7);border-radius:2em;color:#fff;opacity:0.6}
 .banner__tip-intro__tag:hover, .is-active .banner__tip-intro__tag{color:#fff;background-color:rgba(48,48,48,1);opacity:1}
-.trip-main__icon-banner-txt{display:inline-block;width:32px;height:45px;background:url(img/tg/main/icon_banner_txt.png) no-repeat;}
+.trip-main__icon-banner-txt{display:inline-block;width:32px;height:45px;background:url(https://www.theminda.com/cust/css/img/tg/main/icon_banner_txt.png) no-repeat;}
 
 .trip-main__icon-banner-txt--1{background-position:0 0}
 .trip-main__icon-banner-txt--2{background-position:-35px 0}
@@ -1936,7 +1936,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .room_lst h2{position:relative;}
 .ad-info{vertical-align:top;float:right;position:absolute;top:8px;right:15px;}
 .ad-info__txt {font-size:15px;color:#fff;vertical-align:top;opacity:0.5;font-weight:100}
-.ad-info__icon {display:inline-block;width:19px;height:19px;background-image:url(img/icon_ad_info.png);vertical-align:top;margin:-2px 0 0 4px;opacity:0.5}
+.ad-info__icon {display:inline-block;width:19px;height:19px;background-image:url(https://www.theminda.com/cust/css/img/icon_ad_info.png);vertical-align:top;margin:-2px 0 0 4px;opacity:0.5}
 .ad-info__desc,.beststay .dropdown-content .inner{border-radius:3px;padding:8px 10px;border:1px solid #ccc;position:absolute;top:-61px;right:-8px;background-color:#fff;width:170px;display:none;text-align:left;line-height:16px;}
 .ad-info__desc:before, .ad-info__desc:after{content:'';display:inline-block;position:absolute;}
 .ad-info__desc:before, .dropdown-hover--top .dropdown-content .inner:before {width: 0; height: 0; border-style: solid; border-width: 6px 6px 0 6px; border-color: #ccc transparent transparent transparent;right:10px;bottom:-6px;top:auto;}
@@ -1944,7 +1944,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .ad-info__desc-txt {font-size: 12px;color: #888;}
 .ad-info.is-open .ad-info__desc{display:block;}
 
-.icon_plus_blk{width:10px;height:10px;background-image:url(img/icon_plus_blk.png);}
+.icon_plus_blk{width:10px;height:10px;background-image:url(https://www.theminda.com/cust/css/img/icon_plus_blk.png);}
 .list-txt-city{margin:0 -5px;text-align:center;}
 .list-txt-city li{display:inline-block;margin:0 5px;}
 .list-txt-city .btn-rnd{font-size:19px;font-weight:500;letter-spacing:-1px;color:#484848;padding:0 30px;height:42px;}
@@ -1967,7 +1967,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .eurailpass__gift-txt{display:inline-block;margin-top:13px;font-size:16px;font-weight:500;line-height:18px}
 .eurailpass__gift-img--5 + .eurailpass__gift-txt{margin-top:-5px}
 .eurail__gift-txt--point{color:#e93d3d;font-size:13px;font-weight:300;display:block;margin-top:5px;}
-.eurailpass__gift-img {display:inline-block;width:130px;height:120px;background:url(img/addition/spr_eurail_gift.jpg) no-repeat 0 0;}
+.eurailpass__gift-img {display:inline-block;width:130px;height:120px;background:url(https://www.theminda.com/cust/css/img/addition/spr_eurail_gift.jpg) no-repeat 0 0;}
 .eurailpass__gift-img--1{background-position:0 0;}
 .eurailpass__gift-img--2{background-position:-130px 0}
 .eurailpass__gift-img--3{background-position:-260px 0}
@@ -2032,7 +2032,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .myinfo-list__cach dd{margin-right:10px;}
 .mysave__nodata .nodata__wrap{padding:177px 0 116px;}
 .minda-event__nodata .nodata__wrap{padding:66px 0 7px 0;}
-.review__nodata__star{width:278px;height:41px;background:url(img/star_xlg_org.png) repeat-x 0 0;margin:0 auto 21px;}
+.review__nodata__star{width:278px;height:41px;background:url(https://www.theminda.com/cust/css/img/star_xlg_org.png) repeat-x 0 0;margin:0 auto 21px;}
 .review__nodata .nodata__wrap{padding:147px 0 156px;}
 
 .banner__trip-intro__txt{font-size:26px;letter-spacing:-1.6px;margin:13px 0 44px;}
@@ -2075,7 +2075,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .beststay__icon--staff{background-position:-18px 0;}
 .beststay__icon--facility{background-position:-36px 0;}
 .room-list__btm, .info-list__btm{position:absolute;bottom:0;left:0;width:100%;}
-.room-list__tit-icon{display:inline-block;width:23px;height:23px;background:url(img/icon_adroom.png?v=2) 0 0 no-repeat;vertical-align:top;margin:-2px 4px 0 0;}
+.room-list__tit-icon{display:inline-block;width:23px;height:23px;background:url(https://www.theminda.com/cust/css/img/icon_adroom.png?v=2) 0 0 no-repeat;vertical-align:top;margin:-2px 4px 0 0;}
 .room-srch-result--v2{padding:15px 0}
 .room-list--v2 .room-list__tit{text-align:left;font-size:20px;line-height:1em;font-weight:700;padding:30px 20px;color:#484848;border-bottom:1px solid #eee;}
 .room-list__tit .ad-info {position:absolute;top:50%;right:20px;margin-top:-10px;}
@@ -2131,7 +2131,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .awards__nav{margin:56px 0 0 0;}
 .awards__nav-item{display:inline-block;margin:0 31px}
 .awards__nav-check{display:inline-block;width:52px;height:52px;border-radius:26px;background-color:#eee}
-.awards__nav-item a:hover .awards__nav-check, .awards__nav-item.active .awards__nav-check{background:url(img/awards/icon_chk_wh.png) center center no-repeat}
+.awards__nav-item a:hover .awards__nav-check, .awards__nav-item.active .awards__nav-check{background:url(https://www.theminda.com/cust/css/img/awards/icon_chk_wh.png) center center no-repeat}
 .awards__nav-item--rev a:hover .awards__nav-check, .awards__nav-item--rev.active .awards__nav-check{background-color:#eb8651}
 .awards__nav-item--staff a:hover .awards__nav-check, .awards__nav-item--staff.active .awards__nav-check{background-color:#f4cc28}
 .awards__nav-item--facility a:hover .awards__nav-check, .awards__nav-item--facility.active .awards__nav-check{background-color:#42b9b5}
@@ -2220,7 +2220,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .banner__newyear .txt-area{height:453px;padding:0;width:100%;text-align:center;min-width:1100px;max-width:1194px;margin:0 auto;overflow:hidden;}
 /*main 1st kcai*/
 .main__award{background-color:#f3f3f3;text-align:center;}
-.award-mark{display:inline-block;width:50px;height:54px;float:left;margin-right:15px;background:url(img/spr_mark_awards.png) 0 0 no-repeat;}
+.award-mark{display:inline-block;width:50px;height:54px;float:left;margin-right:15px;background:url(https://www.theminda.com/cust/css/img/spr_mark_awards.png) 0 0 no-repeat;}
 .award-mark--wa{background-position:0 -2px;}
 .award-mark--kcai{width:54px;background-position:-50px 0;}
 .main__award__item{position:relative;display:inline-block;margin-right:145px;text-align:left;padding:25px 0;}
@@ -2229,7 +2229,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .award-mark__name{font-size:20px;letter-spacing:-1.2px;line-height:26px;font-weight:bold;color:#484848;}
 .award-mark__desc{color:#484848;font-size:14px;display:block;margin-top:-1px;}
 .award-mark--aa{
-    background: url("//image.theminda.com/file/common_img/logo_smart_app_award_korea.svg");
+    background: url("//image.theminda.com/file/common_https://www.theminda.com/cust/css/img/logo_smart_app_award_korea.svg");
     width: 50px;
     height: 50px;
 }
@@ -2322,7 +2322,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .banner__app-review{background:#eaf0fc}
 .banner__app-review .txt-area {padding-top:63px;width:1100px;margin:0 auto;}
 /*main banner beststay*/
-.banner__main-beststay {background:url(img/main/201801/beststay/bg.png) center 0 no-repeat #f58850;}
+.banner__main-beststay {background:url(https://www.theminda.com/cust/css/img/main/201801/beststay/bg.png) center 0 no-repeat #f58850;}
 .banner__main-beststay .txt-area {padding:65px 0 0 0;width:1100px;margin:0 auto;position:relative;height:453px;}
 .banner__main-beststay-btn{position:absolute;bottom:62px;right:193px;}
 
@@ -2344,10 +2344,10 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .input-wrap__btn-cnl {position:absolute;top:0;right:0;bottom:0;width:35px;height:100%;text-align:center;background:none;border:none;outline:none;display:none;}
 .input-wrap__btn-cnl img{width:11px;height:11px;display:inline-block;margin:-2px 0 0 0}
 /*2018-02-12 add newyear*/
-.banner__newyear {background:url(img/main/201802/newyear/bg.jpg) 0 0 repeat-x;}
-.banner__newyear-img-btm{position:absolute;bottom:0;left:0;right:0;height:81px;background:url(img/main/201802/newyear/bg_btm.png) 0 0 repeat-x;z-index:10}
-.banner__newyear-img-snow{position:absolute;top:0;right:0;bottom:0;left:0;background:url(img/main/201802/newyear/bg_snow.png) center 8px no-repeat;z-index:5 }
-.banner__newyear-img-char{position:absolute;top:0;left:0;right:0;bottom:0;background:url(img/main/201802/newyear/img.png) calc(50% - 25px) 64px no-repeat; z-index:15}
+.banner__newyear {background:url(https://www.theminda.com/cust/css/img/main/201802/newyear/bg.jpg) 0 0 repeat-x;}
+.banner__newyear-img-btm{position:absolute;bottom:0;left:0;right:0;height:81px;background:url(https://www.theminda.com/cust/css/img/main/201802/newyear/bg_btm.png) 0 0 repeat-x;z-index:10}
+.banner__newyear-img-snow{position:absolute;top:0;right:0;bottom:0;left:0;background:url(https://www.theminda.com/cust/css/img/main/201802/newyear/bg_snow.png) center 8px no-repeat;z-index:5 }
+.banner__newyear-img-char{position:absolute;top:0;left:0;right:0;bottom:0;background:url(https://www.theminda.com/cust/css/img/main/201802/newyear/img.png) calc(50% - 25px) 64px no-repeat; z-index:15}
 .banner__newyear .txt-area{width:1100px;margin:0 auto;text-align:left;padding-top:76px;z-index:20}
 .banner__newyear-btn{display:inline-block;margin-top:41px;}
 /*usj banner*/
@@ -2355,7 +2355,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .banner__usj-txt{display:table-cell;vertical-align:middle;font-size:20px;color:#fff}
 .banner__usj-txt--point{font-weight:700}
 .trip-list__banner-area .banner__usj{margin:10px 0 30px}
-.label__coupon{ display:inline-block;border-radius:5px;color:#fff;font-size:11px;position:relative;width:85px;height:18px;text-align:left;padding:1px 7px 0;vertical-align:middle;margin:-5px 3px 0 0;background:url(img/bg_label_coupon.png) 0 0 no-repeat;}
+.label__coupon{ display:inline-block;border-radius:5px;color:#fff;font-size:11px;position:relative;width:85px;height:18px;text-align:left;padding:1px 7px 0;vertical-align:middle;margin:-5px 3px 0 0;background:url(https://www.theminda.com/cust/css/img/bg_label_coupon.png) 0 0 no-repeat;}
 .top-info-area  .label__coupon{width:115px;height:26px;background-position:0 -20px;font-size:15px;text-align:right;margin:11px 0 0 5px;padding-top:2px;vertical-align:top;}
 .tour-citylist__banner-area .banner__usj{height:70px;}
 .tour-citylist__banner-area .banner__usj-txt{font-size:18px;}
@@ -2383,7 +2383,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .input__wrap--radio input + label:after, .input__wrap--check input + label:after{content:'';display:inline-block;width:20px;height:20px;border:1px solid #ccc;background-color:#fff;position:absolute;top:0;left:0;}
 .input__wrap--radio input + label:after{border-radius:10px;}
 .input__wrap--check input + label:after{border-radius:3px;}
-.input__wrap--radio input:checked + label:after,.input__wrap--check input:checked + label:after{background:url(img/icon/icon_chk.svg) center center no-repeat #42C3BF;border-color:#42C3BF;-webkit-background-size:10px 7px;background-size:10px 7px;}
+.input__wrap--radio input:checked + label:after,.input__wrap--check input:checked + label:after{background:url(https://www.theminda.com/cust/css/img/icon/icon_chk.svg) center center no-repeat #42C3BF;border-color:#42C3BF;-webkit-background-size:10px 7px;background-size:10px 7px;}
 .community__radio_wrap {float:left;margin-right:26px;}
 /*event travelog*/
 .banner__travelog .txt-area {width:840px;margin:0 auto;height:453px;padding:122px 0 0 430px;text-align:left}
@@ -2413,8 +2413,8 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 .trip-contact__txt {font-size:13px;line-height:21px;color:#484848;letter-spacing:-0.6px;font-weight:300}
 .trip-contact__link,.trip-contact__link:hover,.trip-contact__link:focus {font-size:15px;color:#42C3BF;text-decoration:underline;display:inline-block;margin-top:23px;}
 .trip--contact__icon-custom, .trip--contact__icon-kakao{position:absolute}
-.trip--contact__icon-custom {width:66px;height:79px;top:46px;right:53px;background-size:66px 79px;background:url(img/icon/icon_trip_custom.svg) 0 0 no-repeat;}
-.trip--contact__icon-kakao {width:66px;height:55px;top:58px;right:55px;background-size:66px 55px;background:url(img/icon/icon_trip_kakao.svg) 0 0 no-repeat;}
+.trip--contact__icon-custom {width:66px;height:79px;top:46px;right:53px;background-size:66px 79px;background:url(https://www.theminda.com/cust/css/img/icon/icon_trip_custom.svg) 0 0 no-repeat;}
+.trip--contact__icon-kakao {width:66px;height:55px;top:58px;right:55px;background-size:66px 55px;background:url(https://www.theminda.com/cust/css/img/icon/icon_trip_kakao.svg) 0 0 no-repeat;}
 .tour_lst_right .trip--contact__icon-custom {width:50px;height:60px;background-size:50px 60px;right:15px;top:39px;}
 .tour_lst_right .trip-contact__txt{margin-top:-5px;font-size:15px;}
 .tour_lst_right .trip-contact__link{margin-top:15px;}
@@ -2469,7 +2469,7 @@ select.form-control-basic:disabled {background:#f7f7f7;}
 }
 .pop__server-check.fade .modal-dialog{-webkit-transform: translate(0,0);-ms-transform: translate(0,0);-o-transform: translate(0,0);transform: translate(0,0);}
 .pop__server-check__tit {position:relative; padding:20px 30px; border-bottom:1px solid #ccc; font-size:20px; font-weight:700; color:#484848;}
-.pop__server-check .modal-contents__btn-clse {display: inline-block;overflow: hidden;margin: 0;padding: 0;border: 0;background-color: transparent;background-position: 50% 50%;background-repeat: no-repeat;font-size: 0;line-height: 0;text-decoration: none;vertical-align: middle;text-indent: -1000em;width: 16px;height: 16px;background: url('/img/event/20180420/pc/modal-contents__btn-clse.png') center center no-repeat; position:absolute; right:30px; top:20px;}
+.pop__server-check .modal-contents__btn-clse {display: inline-block;overflow: hidden;margin: 0;padding: 0;border: 0;background-color: transparent;background-position: 50% 50%;background-repeat: no-repeat;font-size: 0;line-height: 0;text-decoration: none;vertical-align: middle;text-indent: -1000em;width: 16px;height: 16px;background: url('/https://www.theminda.com/cust/css/img/event/20180420/pc/modal-contents__btn-clse.png') center center no-repeat; position:absolute; right:30px; top:20px;}
 .pop__server-check__txt {padding:20px 30px 80px 30px;line-height: 20px;font-size:15px;}
 .pop__server-check__txt span.orange {display: inline-block; font-weight:700;color:#F58850;}
 .pop__server-check__txt span.detail_tit{font-weight:700;color:#F58850;margin:0 10px 0 0;}

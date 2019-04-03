@@ -5,17 +5,17 @@
 </template>
 
 <script>
-import Main from './components/Main.vue'
+import Layout from './components/Layout.vue'
 
 export default {
   name: 'app',
     data() {
         return {
-            component: Main
+            component: Layout
       }
     },
   components: {
-    Main
+    Layout,
   }
 }
 </script>

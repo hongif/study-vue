@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <h1 class="logo"><a href="https://www.theminda.com/"><img src="../../assets/image/logo_org128x28.png" alt=""><span class="sr-only">MINDA</span></a></h1>
+        <h1 class="logo"><router-link to="/"><img src="../../assets/image/logo_org128x28.png" alt=""><span class="sr-only">MINDA</span></router-link></h1>
         <nav class="hd-nav">
             <ul class="gnb">
                 <li class="i1">

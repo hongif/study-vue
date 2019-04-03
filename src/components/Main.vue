@@ -1,28 +1,25 @@
 <template>
     <div>
-        <top-banner/>
-        <main-header/>
         <slide-banner
             :banners="banners"
         />
-        <stay/>
+        <stay
+            :cities="stayCities"
+        />
         <trip/>
         <additional-services/>
         <tip/>
         <info/>
-        <main-footer/>
+
     </div>
 </template>
 
 <script>
     import AdditionalServices from "./main/AdditionalServices";
-    import MainFooter from "./main/MainFooter";
-    import MainHeader from "./main/MainHeader";
     import Info from "./main/Info";
     import SlideBanner from "./main/SlideBanner";
     import Stay from "./main/Stay";
     import Tip from "./main/Tip";
-    import TopBanner from "./main/TopBanner";
     import Trip from "./main/Trip";
 
     export default {
@@ -55,18 +52,204 @@
                       }
                   },
 
+              ],
+              stayCities: [
+                  {
+                      name: '오세아니아',
+                      click() {
+                          location.href="www.theminda.com/md/stays?cityname=시드니";
+                      },
+                      stays: [
+                          {
+                              name: '괌 자생 게스트하우스',
+                              description: '아름답고 쾌적한 괌 자생 게스트하우스로 놀러오세요.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 1}});
+                              }
+                          },
+                          {
+                              name: '사이판 카리스 풀빌라',
+                              description: '테마별 깨끗하고 세련된 인테리어, 이국적인 느낌의 수영장!',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 2}});
+                              }
+                          },
+                          {
+                              name: '사이판 TOP PALACE',
+                              description: '안녕하세요? 사이판 TOP PALACE 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 3}});
+                              }
+                          },
+                          {
+                              name: '괌 이모네 게스트하우스',
+                              description: '안녕하세요? 괌 이모네 게스트하우스 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 4}});
+                              }
+                          },
+
+                      ]
+
+                  },
+                  {
+                      name: '마드리드',
+                      click() {
+                          location.href="www.theminda.com/md/stays?cityname=마드리드";
+                      },
+                      stays: [
+                          {
+                              name: '괌 자생 게스트하우스',
+                              description: '아름답고 쾌적한 괌 자생 게스트하우스로 놀러오세요.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 1}});
+                              }
+                          },
+                          {
+                              name: '사이판 카리스 풀빌라',
+                              description: '테마별 깨끗하고 세련된 인테리어, 이국적인 느낌의 수영장!',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 2}});
+                              }
+                          },
+                          {
+                              name: '사이판 TOP PALACE',
+                              description: '안녕하세요? 사이판 TOP PALACE 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 3}});
+                              }
+                          },
+                          {
+                              name: '괌 이모네 게스트하우스',
+                              description: '안녕하세요? 괌 이모네 게스트하우스 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 4}});
+                              }
+                          },
+
+                      ]
+                  },
+                  {
+                      name: '암스테르담',
+                      click() {
+                          location.href="www.theminda.com/md/stays?cityname=암스테르담";
+                      },
+                      stays: [
+                          {
+                              name: '괌 자생 게스트하우스',
+                              description: '아름답고 쾌적한 괌 자생 게스트하우스로 놀러오세요.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 1}});
+                              }
+                          },
+                          {
+                              name: '사이판 카리스 풀빌라',
+                              description: '테마별 깨끗하고 세련된 인테리어, 이국적인 느낌의 수영장!',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 2}});
+                              }
+                          },
+                          {
+                              name: '사이판 TOP PALACE',
+                              description: '안녕하세요? 사이판 TOP PALACE 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 3}});
+                              }
+                          },
+                          {
+                              name: '괌 이모네 게스트하우스',
+                              description: '안녕하세요? 괌 이모네 게스트하우스 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 4}});
+                              }
+                          },
+
+                      ]
+                  },
+                  {
+                      name: '크로아티아',
+                      click() {
+                          location.href="www.theminda.com/md/stays?cityname=자그레브";
+                      },
+                      stays: [
+                          {
+                              name: '괌 자생 게스트하우스',
+                              description: '아름답고 쾌적한 괌 자생 게스트하우스로 놀러오세요.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 1}});
+                              }
+                          },
+                          {
+                              name: '사이판 카리스 풀빌라',
+                              description: '테마별 깨끗하고 세련된 인테리어, 이국적인 느낌의 수영장!',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 2}});
+                              }
+                          },
+                          {
+                              name: '사이판 TOP PALACE',
+                              description: '안녕하세요? 사이판 TOP PALACE 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 3}});
+                              }
+                          },
+                          {
+                              name: '괌 이모네 게스트하우스',
+                              description: '안녕하세요? 괌 이모네 게스트하우스 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 4}});
+                              }
+                          },
+
+                      ]
+                  },
+                  {
+                      name: '피렌체',
+                      click() {
+                          location.href="www.theminda.com/md/stays?cityname=피렌체";
+                      },
+                      stays: [
+                          {
+                              name: '괌 자생 게스트하우스',
+                              description: '아름답고 쾌적한 괌 자생 게스트하우스로 놀러오세요.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 1}});
+                              }
+                          },
+                          {
+                              name: '사이판 카리스 풀빌라',
+                              description: '테마별 깨끗하고 세련된 인테리어, 이국적인 느낌의 수영장!',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 2}});
+                              }
+                          },
+                          {
+                              name: '사이판 TOP PALACE',
+                              description: '안녕하세요? 사이판 TOP PALACE 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 3}});
+                              }
+                          },
+                          {
+                              name: '괌 이모네 게스트하우스',
+                              description: '안녕하세요? 괌 이모네 게스트하우스 입니다.',
+                              click() {
+                                  this.$router.push({name: 'stay', params: { goodsno: 4}});
+                              }
+                          },
+
+                      ]
+                  },
+
               ]
           }
         },
         components: {
             AdditionalServices,
-            MainFooter,
-            MainHeader,
             Info,
             SlideBanner,
             Stay,
             Tip,
-            TopBanner,
             Trip,
         }
     }

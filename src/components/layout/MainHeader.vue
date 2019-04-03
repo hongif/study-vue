@@ -4,7 +4,7 @@
         <nav class="hd-nav">
             <ul class="gnb">
                 <li class="i1">
-                    <a href="javascript:showNationList(&#39;&#39;);">
+                    <a @click="clickStay">
                         숙소
                     </a>
                 </li>
@@ -148,7 +148,12 @@
 
 <script>
     export default {
-        name: "Header"
+        name: "Header",
+        methods: {
+            clickStay(){
+                this.$router.push({name:'stay', params: {goodsno: 1}});
+            }
+        }
     }
 </script>
 

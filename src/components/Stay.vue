@@ -10,7 +10,7 @@
                     </div>
                     <div class="room_txt">
                         <h2>
-                            <div class="stay_view_tit__type_mk01">앳홈뉴욕</div>
+                            <div class="stay_view_tit__type_mk01">{{ $route.params.goodsno }}</div>
                         </h2>
                         <div class="roominfo row pr">
                             <p class="col-xs-6 pr15">

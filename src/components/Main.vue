@@ -32,7 +32,7 @@
                       description: '2018 하반기<br>베스트 스테이 선정',
                       image: '../../assets/image/pc_main_banner.png',
                       click() {
-                          location.href = 'www.theminda.com/main/beststay.php';
+                          this.$router.push({name:'stay', params: {goodsno: 1}});
                       }
                   },
                   {
@@ -40,7 +40,7 @@
                       description: '민다 호텔 예약<br>트립쿠폰 100% 증정',
                       image: '../../assets/image/pc_main_banner(1).png',
                       click() {
-                          location.href = 'www.theminda.com/event/view.php?id=gevent&amp;no=227';
+                          this.$router.push('stay');
                       }
                   },
                   {

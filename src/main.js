@@ -21,6 +21,10 @@ const routes = [
       }
     ]
   },
+  {
+    path: '/a',
+    redirect: '/user/in2020/posts'
+  },
   { path: '/user/:id',
     component: User,
     children: [

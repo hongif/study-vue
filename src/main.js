@@ -8,6 +8,10 @@ import User from './components/User'
 import UserProfile from './components/UserProfile'
 import UserPosts from './components/UserPosts'
 
+
+
+const AsyncItem = () => import('./components/AsyncItem.vue');
+
 Vue.use(VueRouter);
 
 Vue.config.productionTip = false;
@@ -25,6 +29,11 @@ const routes = [
     path: '/a',
     redirect: '/user/in2020/posts'
   },
+    {
+    path: '/async',
+    component: AsyncItem
+  },
+
   { path: '/user/:id',
     component: User,
     children: [

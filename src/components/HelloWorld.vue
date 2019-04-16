@@ -5,6 +5,7 @@
       wrap
     >
       <v-btn @click="goTo('/user/in2020')">User</v-btn>
+      <v-btn @click="goTo('/async')">Async</v-btn>
     </v-layout>
   </v-container>
 </template>
